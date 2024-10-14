@@ -1,0 +1,770 @@
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+pm_winnt:notice] [pid 5372:tid 448] AH00455: Apache/2.4.62 (Win64) configured -- resuming normal operations
+[Thu Oct 03 15:17:30.226267 2024] [mpm_winnt:notice] [pid 5372:tid 448] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Thu Oct 03 15:17:30.226267 2024] [core:notice] [pid 5372:tid 448] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Oct 03 15:17:30.226267 2024] [mpm_winnt:notice] [pid 5372:tid 448] AH00418: Parent: Created child process 1112
+[Thu Oct 03 15:17:30.993681 2024] [mpm_winnt:notice] [pid 1112:tid 420] AH00354: Child: Starting 64 worker threads.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 5372:tid 448] AH00424: Parent: Received restart signal -- Restarting the server.
+[Thu Oct 03 15:36:57.866969 2024] [mpm_winnt:notice] [pid 5372:tid 448] AH00455: Apache/2.4.62 (Win64) configured -- resuming normal operations
+[Thu Oct 03 15:36:57.866969 2024] [mpm_winnt:notice] [pid 5372:tid 448] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Thu Oct 03 15:36:57.866969 2024] [core:notice] [pid 5372:tid 448] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Oct 03 15:36:57.866969 2024] [mpm_winnt:notice] [pid 5372:tid 448] AH00418: Parent: Created child process 9152
+[Thu Oct 03 15:36:58.867229 2024] [mpm_winnt:notice] [pid 9152:tid 420] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 03 15:36:59.883112 2024] [mpm_winnt:notice] [pid 1112:tid 420] AH00364: Child: All worker threads have exited.
+[Thu Oct 03 17:58:41.570189 2024] [mpm_winnt:notice] [pid 5372:tid 448] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 03 17:58:43.601448 2024] [mpm_winnt:notice] [pid 9152:tid 420] AH00364: Child: All worker threads have exited.
+[Thu Oct 03 17:58:43.617123 2024] [mpm_winnt:notice] [pid 5372:tid 448] AH00430: Parent: Child process 9152 exited successfully.
+[Thu Oct 03 17:58:59.786430 2024] [mpm_winnt:notice] [pid 3360:tid 404] AH00455: Apache/2.4.62 (Win64) configured -- resuming normal operations
+[Thu Oct 03 17:58:59.786430 2024] [mpm_winnt:notice] [pid 3360:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Thu Oct 03 17:58:59.786430 2024] [core:notice] [pid 3360:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Oct 03 17:58:59.802054 2024] [mpm_winnt:notice] [pid 3360:tid 404] AH00418: Parent: Created child process 4764
+[Thu Oct 03 17:59:00.661430 2024] [mpm_winnt:notice] [pid 4764:tid 428] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 03 17:59:34.886888 2024] [mpm_winnt:notice] [pid 3360:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 03 17:59:36.918205 2024] [mpm_winnt:notice] [pid 4764:tid 428] AH00364: Child: All worker threads have exited.
+[Thu Oct 03 17:59:36.933797 2024] [mpm_winnt:notice] [pid 3360:tid 404] AH00430: Parent: Child process 4764 exited successfully.
+[Thu Oct 03 17:59:53.813736 2024] [mpm_winnt:notice] [pid 3376:tid 404] AH00455: Apache/2.4.62 (Win64) configured -- resuming normal operations
+[Thu Oct 03 17:59:53.813736 2024] [mpm_winnt:notice] [pid 3376:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Thu Oct 03 17:59:53.813736 2024] [core:notice] [pid 3376:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Oct 03 17:59:53.813736 2024] [mpm_winnt:notice] [pid 3376:tid 404] AH00418: Parent: Created child process 4864
+[Thu Oct 03 17:59:54.626238 2024] [mpm_winnt:notice] [pid 4864:tid 444] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 03 18:04:47.248425 2024] [mpm_winnt:notice] [pid 3376:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 03 18:04:49.279771 2024] [mpm_winnt:notice] [pid 4864:tid 444] AH00364: Child: All worker threads have exited.
+[Thu Oct 03 18:04:49.295314 2024] [mpm_winnt:notice] [pid 3376:tid 404] AH00430: Parent: Child process 4864 exited successfully.
+[Thu Oct 03 18:05:04.788380 2024] [mpm_winnt:notice] [pid 3392:tid 428] AH00455: Apache/2.4.62 (Win64) configured -- resuming normal operations
+[Thu Oct 03 18:05:04.788380 2024] [mpm_winnt:notice] [pid 3392:tid 428] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Thu Oct 03 18:05:04.788380 2024] [core:notice] [pid 3392:tid 428] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Oct 03 18:05:04.788380 2024] [mpm_winnt:notice] [pid 3392:tid 428] AH00418: Parent: Created child process 4804
+[Thu Oct 03 18:05:05.585254 2024] [mpm_winnt:notice] [pid 4804:tid 428] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 03 18:36:53.133687 2024] [mpm_winnt:notice] [pid 3392:tid 428] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 03 18:36:55.160117 2024] [mpm_winnt:notice] [pid 4804:tid 428] AH00364: Child: All worker threads have exited.
+[Thu Oct 03 18:36:55.175802 2024] [mpm_winnt:notice] [pid 3392:tid 428] AH00430: Parent: Child process 4804 exited successfully.
+[Thu Oct 03 18:36:56.160103 2024] [mpm_winnt:notice] [pid 4996:tid 440] AH00455: Apache/2.4.62 (Win64) configured -- resuming normal operations
+[Thu Oct 03 18:36:56.160103 2024] [mpm_winnt:notice] [pid 4996:tid 440] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Thu Oct 03 18:36:56.160103 2024] [core:notice] [pid 4996:tid 440] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Oct 03 18:36:56.160103 2024] [mpm_winnt:notice] [pid 4996:tid 440] AH00418: Parent: Created child process 3988
+[Thu Oct 03 18:36:56.613228 2024] [mpm_winnt:notice] [pid 3988:tid 460] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 03 18:58:04.394651 2024] [mpm_winnt:notice] [pid 4996:tid 440] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 03 18:58:06.425901 2024] [mpm_winnt:notice] [pid 3988:tid 460] AH00364: Child: All worker threads have exited.
+[Thu Oct 03 18:58:06.441524 2024] [mpm_winnt:notice] [pid 4996:tid 440] AH00430: Parent: Child process 3988 exited successfully.
+[Thu Oct 03 19:01:50.126207 2024] [mpm_winnt:notice] [pid 3512:tid 428] AH00455: Apache/2.4.62 (Win64) configured -- resuming normal operations
+[Thu Oct 03 19:01:50.126207 2024] [mpm_winnt:notice] [pid 3512:tid 428] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Thu Oct 03 19:01:50.126207 2024] [core:notice] [pid 3512:tid 428] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Oct 03 19:01:50.141833 2024] [mpm_winnt:notice] [pid 3512:tid 428] AH00418: Parent: Created child process 4824
+[Thu Oct 03 19:01:51.016835 2024] [mpm_winnt:notice] [pid 4824:tid 420] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 03 19:27:41.040813 2024] [cgi:error] [pid 4824:tid 1236] [client 185.224.128.59:41680] AH02811: stderr from C:/Apache24/cgi-bin/luci: script not found or unable to stat
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 3512:tid 428] AH00424: Parent: Received restart signal -- Restarting the server.
+[Thu Oct 03 19:36:10.726545 2024] [mpm_winnt:notice] [pid 3512:tid 428] AH00455: Apache/2.4.62 (Win64) configured -- resuming normal operations
+[Thu Oct 03 19:36:10.726545 2024] [mpm_winnt:notice] [pid 3512:tid 428] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Thu Oct 03 19:36:10.726545 2024] [core:notice] [pid 3512:tid 428] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Oct 03 19:36:10.726545 2024] [mpm_winnt:notice] [pid 3512:tid 428] AH00418: Parent: Created child process 2464
+[Thu Oct 03 19:36:11.710253 2024] [mpm_winnt:notice] [pid 2464:tid 456] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 03 19:36:12.724010 2024] [mpm_winnt:notice] [pid 4824:tid 420] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 3512:tid 428] AH00424: Parent: Received restart signal -- Restarting the server.
+[Thu Oct 03 19:57:13.024016 2024] [mpm_winnt:notice] [pid 3512:tid 428] AH00455: Apache/2.4.62 (Win64) configured -- resuming normal operations
+[Thu Oct 03 19:57:13.024016 2024] [mpm_winnt:notice] [pid 3512:tid 428] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Thu Oct 03 19:57:13.024016 2024] [core:notice] [pid 3512:tid 428] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Oct 03 19:57:13.024016 2024] [mpm_winnt:notice] [pid 3512:tid 428] AH00418: Parent: Created child process 7156
+[Thu Oct 03 19:57:14.008435 2024] [mpm_winnt:notice] [pid 7156:tid 420] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 03 19:57:15.024088 2024] [mpm_winnt:notice] [pid 2464:tid 456] AH00364: Child: All worker threads have exited.
+[Thu Oct 03 19:59:43.430433 2024] [mpm_winnt:notice] [pid 3512:tid 428] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 03 19:59:45.461689 2024] [mpm_winnt:notice] [pid 7156:tid 420] AH00364: Child: All worker threads have exited.
+[Thu Oct 03 19:59:45.477326 2024] [mpm_winnt:notice] [pid 3512:tid 428] AH00430: Parent: Child process 7156 exited successfully.
+[Thu Oct 03 20:08:43.328676 2024] [mpm_winnt:notice] [pid 3492:tid 404] AH00455: Apache/2.4.62 (Win64) configured -- resuming normal operations
+[Thu Oct 03 20:08:43.328676 2024] [mpm_winnt:notice] [pid 3492:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Thu Oct 03 20:08:43.328676 2024] [core:notice] [pid 3492:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Oct 03 20:08:43.328676 2024] [mpm_winnt:notice] [pid 3492:tid 404] AH00418: Parent: Created child process 4892
+[Thu Oct 03 20:08:44.109924 2024] [mpm_winnt:notice] [pid 4892:tid 420] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 03 20:52:16.638563 2024] [mpm_winnt:notice] [pid 3492:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 03 20:52:18.669809 2024] [mpm_winnt:notice] [pid 4892:tid 420] AH00364: Child: All worker threads have exited.
+[Thu Oct 03 20:52:18.732297 2024] [mpm_winnt:notice] [pid 3492:tid 404] AH00430: Parent: Child process 4892 exited successfully.
+[Thu Oct 03 20:59:00.999914 2024] [mpm_winnt:notice] [pid 3360:tid 140] AH00455: Apache/2.4.62 (Win64) configured -- resuming normal operations
+[Thu Oct 03 20:59:01.046790 2024] [mpm_winnt:notice] [pid 3360:tid 140] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Thu Oct 03 20:59:01.046790 2024] [core:notice] [pid 3360:tid 140] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Oct 03 20:59:01.046790 2024] [mpm_winnt:notice] [pid 3360:tid 140] AH00418: Parent: Created child process 3124
+[Thu Oct 03 20:59:01.734290 2024] [mpm_winnt:notice] [pid 3124:tid 420] AH00354: Child: Starting 64 worker threads.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 3360:tid 140] AH00424: Parent: Received restart signal -- Restarting the server.
+[Thu Oct 03 22:08:12.972902 2024] [ssl:warn] [pid 3360:tid 140] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 03 22:08:12.972902 2024] [mpm_winnt:notice] [pid 3360:tid 140] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Thu Oct 03 22:08:12.972902 2024] [mpm_winnt:notice] [pid 3360:tid 140] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Thu Oct 03 22:08:12.972902 2024] [core:notice] [pid 3360:tid 140] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Oct 03 22:08:12.988539 2024] [mpm_winnt:notice] [pid 3360:tid 140] AH00418: Parent: Created child process 6468
+[Thu Oct 03 22:08:13.441654 2024] [ssl:warn] [pid 6468:tid 432] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 03 22:08:13.941858 2024] [mpm_winnt:notice] [pid 6468:tid 432] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 03 22:08:14.957733 2024] [mpm_winnt:notice] [pid 3124:tid 420] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+Failed to restart the 'Apache2.4' service.
+t:notice] [pid 3360:tid 140] AH00424: Parent: Received restart signal -- Restarting the server.
+(OS 10048)Only one usage of each socket address (protocol/network address/port) is normally permitted.  : AH00072: make_sock: could not bind to address 0.0.0.0:80
+AH00451: no listening sockets available, shutting down
+[Thu Oct 03 22:28:39.081413 2024] [:emerg] [pid 3360:tid 140] AH00019: Unable to open logs, exiting
+[Thu Oct 03 22:28:41.090318 2024] [mpm_winnt:notice] [pid 6468:tid 432] AH00364: Child: All worker threads have exited.
+The 'Apache2.4' service is restarting.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+ore:warn] [pid 3264:tid 444] AH00098: pid file C:/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Oct 03 22:29:43.018842 2024] [ssl:warn] [pid 3264:tid 444] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 03 22:29:43.034470 2024] [mpm_winnt:notice] [pid 3264:tid 444] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Thu Oct 03 22:29:43.034470 2024] [mpm_winnt:notice] [pid 3264:tid 444] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Thu Oct 03 22:29:43.034470 2024] [core:notice] [pid 3264:tid 444] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Oct 03 22:29:43.034470 2024] [mpm_winnt:notice] [pid 3264:tid 444] AH00418: Parent: Created child process 4672
+[Thu Oct 03 22:29:43.487591 2024] [ssl:warn] [pid 4672:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 03 22:29:43.503219 2024] [mpm_winnt:notice] [pid 4672:tid 420] AH00354: Child: Starting 64 worker threads.
+The 'Apache2.4' service is restarting.
+The 'Apache2.4' service has restarted.
+winnt:notice] [pid 3264:tid 444] AH00424: Parent: Received restart signal -- Restarting the server.
+[Thu Oct 03 23:35:41.687238 2024] [ssl:warn] [pid 3264:tid 444] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 03 23:35:41.687238 2024] [mpm_winnt:notice] [pid 3264:tid 444] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Thu Oct 03 23:35:41.687238 2024] [mpm_winnt:notice] [pid 3264:tid 444] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Thu Oct 03 23:35:41.687238 2024] [core:notice] [pid 3264:tid 444] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Oct 03 23:35:41.687238 2024] [mpm_winnt:notice] [pid 3264:tid 444] AH00418: Parent: Created child process 8492
+[Thu Oct 03 23:35:42.140360 2024] [ssl:warn] [pid 8492:tid 460] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 03 23:35:42.671672 2024] [mpm_winnt:notice] [pid 8492:tid 460] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 03 23:35:53.796574 2024] [mpm_winnt:notice] [pid 4672:tid 420] AH00364: Child: All worker threads have exited.
+[Fri Oct 04 00:43:26.276838 2024] [mpm_winnt:notice] [pid 3264:tid 444] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Oct 04 00:43:33.214203 2024] [mpm_winnt:notice] [pid 8492:tid 460] AH00364: Child: All worker threads have exited.
+[Fri Oct 04 00:43:33.229758 2024] [mpm_winnt:notice] [pid 3264:tid 444] AH00430: Parent: Child process 8492 exited successfully.
+[Fri Oct 04 01:00:41.369325 2024] [ssl:warn] [pid 5720:tid 428] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Oct 04 01:00:41.369325 2024] [mpm_winnt:notice] [pid 5720:tid 428] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Fri Oct 04 01:00:41.369325 2024] [mpm_winnt:notice] [pid 5720:tid 428] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Fri Oct 04 01:00:41.369325 2024] [core:notice] [pid 5720:tid 428] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Oct 04 01:00:41.369325 2024] [mpm_winnt:notice] [pid 5720:tid 428] AH00418: Parent: Created child process 6892
+[Fri Oct 04 01:00:41.838001 2024] [ssl:warn] [pid 6892:tid 468] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Oct 04 01:00:41.838001 2024] [mpm_winnt:notice] [pid 6892:tid 468] AH00354: Child: Starting 64 worker threads.
+[Fri Oct 04 01:21:15.149230 2024] [mpm_winnt:notice] [pid 5720:tid 428] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Oct 04 01:21:17.173094 2024] [mpm_winnt:notice] [pid 6892:tid 468] AH00364: Child: All worker threads have exited.
+[Fri Oct 04 01:21:17.188742 2024] [mpm_winnt:notice] [pid 5720:tid 428] AH00430: Parent: Child process 6892 exited successfully.
+[Fri Oct 04 01:22:47.351807 2024] [ssl:warn] [pid 3516:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Oct 04 01:22:47.351807 2024] [mpm_winnt:notice] [pid 3516:tid 404] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Fri Oct 04 01:22:47.351807 2024] [mpm_winnt:notice] [pid 3516:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Fri Oct 04 01:22:47.351807 2024] [core:notice] [pid 3516:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Oct 04 01:22:47.351807 2024] [mpm_winnt:notice] [pid 3516:tid 404] AH00418: Parent: Created child process 1084
+[Fri Oct 04 01:22:48.086181 2024] [ssl:warn] [pid 1084:tid 456] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Oct 04 01:22:48.101806 2024] [mpm_winnt:notice] [pid 1084:tid 456] AH00354: Child: Starting 64 worker threads.
+[Fri Oct 04 01:24:29.424067 2024] [mpm_winnt:notice] [pid 3516:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Oct 04 01:24:31.455344 2024] [mpm_winnt:notice] [pid 1084:tid 456] AH00364: Child: All worker threads have exited.
+[Fri Oct 04 01:24:31.470933 2024] [mpm_winnt:notice] [pid 3516:tid 404] AH00430: Parent: Child process 1084 exited successfully.
+[Fri Oct 04 01:34:41.033818 2024] [ssl:warn] [pid 3376:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Oct 04 01:34:41.033818 2024] [mpm_winnt:notice] [pid 3376:tid 404] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Fri Oct 04 01:34:41.033818 2024] [mpm_winnt:notice] [pid 3376:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Fri Oct 04 01:34:41.033818 2024] [core:notice] [pid 3376:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Oct 04 01:34:41.033818 2024] [mpm_winnt:notice] [pid 3376:tid 404] AH00418: Parent: Created child process 4344
+[Fri Oct 04 01:34:41.783819 2024] [ssl:warn] [pid 4344:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Oct 04 01:34:41.783819 2024] [mpm_winnt:notice] [pid 4344:tid 420] AH00354: Child: Starting 64 worker threads.
+[Fri Oct 04 02:03:13.555392 2024] [mpm_winnt:notice] [pid 3376:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Oct 04 02:03:15.586656 2024] [mpm_winnt:notice] [pid 4344:tid 420] AH00364: Child: All worker threads have exited.
+[Fri Oct 04 02:03:15.602259 2024] [mpm_winnt:notice] [pid 3376:tid 404] AH00430: Parent: Child process 4344 exited successfully.
+[Fri Oct 04 13:29:49.820890 2024] [ssl:warn] [pid 3504:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Oct 04 13:29:49.820890 2024] [mpm_winnt:notice] [pid 3504:tid 404] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Fri Oct 04 13:29:49.820890 2024] [mpm_winnt:notice] [pid 3504:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Fri Oct 04 13:29:49.820890 2024] [core:notice] [pid 3504:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Oct 04 13:29:49.820890 2024] [mpm_winnt:notice] [pid 3504:tid 404] AH00418: Parent: Created child process 5000
+[Fri Oct 04 13:29:50.524016 2024] [ssl:warn] [pid 5000:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Oct 04 13:29:50.539640 2024] [mpm_winnt:notice] [pid 5000:tid 420] AH00354: Child: Starting 64 worker threads.
+[Fri Oct 04 20:59:25.645458 2024] [mpm_winnt:notice] [pid 3504:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Oct 04 20:59:27.676673 2024] [mpm_winnt:notice] [pid 5000:tid 420] AH00364: Child: All worker threads have exited.
+[Fri Oct 04 20:59:27.692298 2024] [mpm_winnt:notice] [pid 3504:tid 404] AH00430: Parent: Child process 5000 exited successfully.
+[Fri Oct 04 20:59:44.509417 2024] [ssl:warn] [pid 3476:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Oct 04 20:59:44.509417 2024] [mpm_winnt:notice] [pid 3476:tid 404] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Fri Oct 04 20:59:44.509417 2024] [mpm_winnt:notice] [pid 3476:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Fri Oct 04 20:59:44.509417 2024] [core:notice] [pid 3476:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Oct 04 20:59:44.556292 2024] [mpm_winnt:notice] [pid 3476:tid 404] AH00418: Parent: Created child process 5044
+[Fri Oct 04 20:59:45.478166 2024] [ssl:warn] [pid 5044:tid 432] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Oct 04 20:59:45.478166 2024] [mpm_winnt:notice] [pid 5044:tid 432] AH00354: Child: Starting 64 worker threads.
+[Sat Oct 05 01:43:33.898185 2024] [cgi:error] [pid 5044:tid 1224] [client 141.98.11.15:46404] AH02811: stderr from C:/Apache24/cgi-bin/luci: script not found or unable to stat
+[Sat Oct 05 02:32:23.012545 2024] [mpm_winnt:notice] [pid 3476:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Oct 05 02:32:25.059407 2024] [mpm_winnt:notice] [pid 5044:tid 432] AH00364: Child: All worker threads have exited.
+[Sat Oct 05 02:32:25.075180 2024] [mpm_winnt:notice] [pid 3476:tid 404] AH00430: Parent: Child process 5044 exited successfully.
+[Mon Oct 07 22:14:56.948738 2024] [ssl:warn] [pid 3528:tid 432] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Oct 07 22:14:56.964360 2024] [mpm_winnt:notice] [pid 3528:tid 432] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Mon Oct 07 22:14:56.964360 2024] [mpm_winnt:notice] [pid 3528:tid 432] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Mon Oct 07 22:14:56.964360 2024] [core:notice] [pid 3528:tid 432] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 07 22:14:56.964360 2024] [mpm_winnt:notice] [pid 3528:tid 432] AH00418: Parent: Created child process 4120
+[Mon Oct 07 22:14:57.792487 2024] [ssl:warn] [pid 4120:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Oct 07 22:14:57.792487 2024] [mpm_winnt:notice] [pid 4120:tid 420] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 08 00:09:58.454967 2024] [cgi:error] [pid 4120:tid 1232] [client 141.98.11.15:52490] AH02811: stderr from C:/Apache24/cgi-bin/luci: script not found or unable to stat
+[Tue Oct 08 00:21:50.879615 2024] [mpm_winnt:notice] [pid 3528:tid 432] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 08 00:21:52.910881 2024] [mpm_winnt:notice] [pid 4120:tid 420] AH00364: Child: All worker threads have exited.
+[Tue Oct 08 00:21:52.926483 2024] [mpm_winnt:notice] [pid 3528:tid 432] AH00430: Parent: Child process 4120 exited successfully.
+[Tue Oct 08 00:41:28.938066 2024] [ssl:warn] [pid 3376:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 08 00:41:28.953691 2024] [mpm_winnt:notice] [pid 3376:tid 404] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Tue Oct 08 00:41:28.953691 2024] [mpm_winnt:notice] [pid 3376:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Tue Oct 08 00:41:28.953691 2024] [core:notice] [pid 3376:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 08 00:41:28.969316 2024] [mpm_winnt:notice] [pid 3376:tid 404] AH00418: Parent: Created child process 5060
+[Tue Oct 08 00:41:29.797443 2024] [ssl:warn] [pid 5060:tid 432] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 08 00:41:29.797443 2024] [mpm_winnt:notice] [pid 5060:tid 432] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 08 00:58:57.935458 2024] [mpm_winnt:notice] [pid 3376:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 08 00:58:59.966685 2024] [mpm_winnt:notice] [pid 5060:tid 432] AH00364: Child: All worker threads have exited.
+[Tue Oct 08 00:58:59.982331 2024] [mpm_winnt:notice] [pid 3376:tid 404] AH00430: Parent: Child process 5060 exited successfully.
+[Tue Oct 08 00:59:28.888973 2024] [ssl:warn] [pid 7664:tid 416] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 08 00:59:28.904600 2024] [mpm_winnt:notice] [pid 7664:tid 416] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Tue Oct 08 00:59:28.904600 2024] [mpm_winnt:notice] [pid 7664:tid 416] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Tue Oct 08 00:59:28.904600 2024] [core:notice] [pid 7664:tid 416] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 08 00:59:28.904600 2024] [mpm_winnt:notice] [pid 7664:tid 416] AH00418: Parent: Created child process 7828
+[Tue Oct 08 00:59:29.389002 2024] [ssl:warn] [pid 7828:tid 440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 08 00:59:29.404627 2024] [mpm_winnt:notice] [pid 7828:tid 440] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 08 01:05:28.222936 2024] [mpm_winnt:notice] [pid 7664:tid 416] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 08 01:05:30.254539 2024] [mpm_winnt:notice] [pid 7828:tid 440] AH00364: Child: All worker threads have exited.
+[Tue Oct 08 01:05:30.270208 2024] [mpm_winnt:notice] [pid 7664:tid 416] AH00430: Parent: Child process 7828 exited successfully.
+[Tue Oct 08 01:05:37.972963 2024] [ssl:warn] [pid 6152:tid 432] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 08 01:05:37.988593 2024] [mpm_winnt:notice] [pid 6152:tid 432] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Tue Oct 08 01:05:37.988593 2024] [mpm_winnt:notice] [pid 6152:tid 432] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Tue Oct 08 01:05:37.988593 2024] [core:notice] [pid 6152:tid 432] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 08 01:05:37.988593 2024] [mpm_winnt:notice] [pid 6152:tid 432] AH00418: Parent: Created child process 8744
+[Tue Oct 08 01:05:38.441727 2024] [ssl:warn] [pid 8744:tid 444] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 08 01:05:38.457354 2024] [mpm_winnt:notice] [pid 8744:tid 444] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 08 01:13:30.951402 2024] [mpm_winnt:notice] [pid 6152:tid 432] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 08 01:13:32.982828 2024] [mpm_winnt:notice] [pid 8744:tid 444] AH00364: Child: All worker threads have exited.
+[Tue Oct 08 01:13:32.998474 2024] [mpm_winnt:notice] [pid 6152:tid 432] AH00430: Parent: Child process 8744 exited successfully.
+[Tue Oct 08 01:13:33.967034 2024] [ssl:warn] [pid 2324:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 08 01:13:33.982661 2024] [mpm_winnt:notice] [pid 2324:tid 404] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Tue Oct 08 01:13:33.982661 2024] [mpm_winnt:notice] [pid 2324:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Tue Oct 08 01:13:33.982661 2024] [core:notice] [pid 2324:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 08 01:13:33.982661 2024] [mpm_winnt:notice] [pid 2324:tid 404] AH00418: Parent: Created child process 4476
+[Tue Oct 08 01:13:34.467051 2024] [ssl:warn] [pid 4476:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 08 01:13:34.482673 2024] [mpm_winnt:notice] [pid 4476:tid 420] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 08 01:13:46.061053 2024] [mpm_winnt:notice] [pid 2324:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 08 01:13:48.092592 2024] [mpm_winnt:notice] [pid 4476:tid 420] AH00364: Child: All worker threads have exited.
+[Tue Oct 08 01:13:48.108131 2024] [mpm_winnt:notice] [pid 2324:tid 404] AH00430: Parent: Child process 4476 exited successfully.
+[Tue Oct 08 01:13:49.076824 2024] [ssl:warn] [pid 880:tid 416] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 08 01:13:49.092450 2024] [mpm_winnt:notice] [pid 880:tid 416] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Tue Oct 08 01:13:49.092450 2024] [mpm_winnt:notice] [pid 880:tid 416] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Tue Oct 08 01:13:49.092450 2024] [core:notice] [pid 880:tid 416] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 08 01:13:49.092450 2024] [mpm_winnt:notice] [pid 880:tid 416] AH00418: Parent: Created child process 8604
+[Tue Oct 08 01:13:49.576760 2024] [ssl:warn] [pid 8604:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 08 01:13:49.592386 2024] [mpm_winnt:notice] [pid 8604:tid 420] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 08 01:28:03.662266 2024] [mpm_winnt:notice] [pid 880:tid 416] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 08 01:28:05.678379 2024] [mpm_winnt:notice] [pid 8604:tid 420] AH00364: Child: All worker threads have exited.
+[Tue Oct 08 01:28:05.709053 2024] [mpm_winnt:notice] [pid 880:tid 416] AH00430: Parent: Child process 8604 exited successfully.
+[Tue Oct 08 01:40:07.967064 2024] [mpm_winnt:notice] [pid 4684:tid 404] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Tue Oct 08 01:40:07.967064 2024] [mpm_winnt:notice] [pid 4684:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Tue Oct 08 01:40:07.967064 2024] [core:notice] [pid 4684:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 08 01:40:07.967064 2024] [mpm_winnt:notice] [pid 4684:tid 404] AH00418: Parent: Created child process 8952
+[Tue Oct 08 01:40:08.467030 2024] [mpm_winnt:notice] [pid 8952:tid 436] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 08 01:50:58.381968 2024] [mpm_winnt:notice] [pid 4684:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 08 01:51:00.413275 2024] [mpm_winnt:notice] [pid 8952:tid 436] AH00364: Child: All worker threads have exited.
+[Tue Oct 08 01:51:00.428917 2024] [mpm_winnt:notice] [pid 4684:tid 404] AH00430: Parent: Child process 8952 exited successfully.
+[Tue Oct 08 02:08:35.488793 2024] [ssl:warn] [pid 8724:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 08 02:08:35.488793 2024] [mpm_winnt:notice] [pid 8724:tid 404] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Tue Oct 08 02:08:35.488793 2024] [mpm_winnt:notice] [pid 8724:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Tue Oct 08 02:08:35.488793 2024] [core:notice] [pid 8724:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 08 02:08:35.488793 2024] [mpm_winnt:notice] [pid 8724:tid 404] AH00418: Parent: Created child process 7360
+[Tue Oct 08 02:08:36.066891 2024] [ssl:warn] [pid 7360:tid 448] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 08 02:08:36.066891 2024] [mpm_winnt:notice] [pid 7360:tid 448] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 08 02:22:57.075366 2024] [mpm_winnt:notice] [pid 8724:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 08 02:22:59.106708 2024] [mpm_winnt:notice] [pid 7360:tid 448] AH00364: Child: All worker threads have exited.
+[Tue Oct 08 02:22:59.122334 2024] [mpm_winnt:notice] [pid 8724:tid 404] AH00430: Parent: Child process 7360 exited successfully.
+[Tue Oct 08 02:25:00.112463 2024] [mpm_winnt:notice] [pid 8216:tid 456] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Tue Oct 08 02:25:00.112463 2024] [mpm_winnt:notice] [pid 8216:tid 456] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Tue Oct 08 02:25:00.112463 2024] [core:notice] [pid 8216:tid 456] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 08 02:25:00.128088 2024] [mpm_winnt:notice] [pid 8216:tid 456] AH00418: Parent: Created child process 9112
+[Tue Oct 08 02:25:00.612489 2024] [mpm_winnt:notice] [pid 9112:tid 440] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 08 02:35:20.861085 2024] [mpm_winnt:notice] [pid 8216:tid 456] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 08 02:35:22.908037 2024] [mpm_winnt:notice] [pid 9112:tid 440] AH00364: Child: All worker threads have exited.
+[Tue Oct 08 02:35:22.923647 2024] [mpm_winnt:notice] [pid 8216:tid 456] AH00430: Parent: Child process 9112 exited successfully.
+[Tue Oct 08 02:35:50.925047 2024] [mpm_winnt:notice] [pid 6748:tid 436] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Tue Oct 08 02:35:50.925047 2024] [mpm_winnt:notice] [pid 6748:tid 436] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Tue Oct 08 02:35:50.925047 2024] [core:notice] [pid 6748:tid 436] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 08 02:35:50.940673 2024] [mpm_winnt:notice] [pid 6748:tid 436] AH00418: Parent: Created child process 7740
+[Tue Oct 08 02:35:51.425070 2024] [mpm_winnt:notice] [pid 7740:tid 464] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 08 02:36:25.067312 2024] [mpm_winnt:notice] [pid 6748:tid 436] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 08 02:36:55.068802 2024] [mpm_winnt:notice] [pid 6748:tid 436] AH00431: Parent: Forcing termination of child process 7740
+[Tue Oct 08 02:38:25.541914 2024] [ssl:warn] [pid 9028:tid 440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 08 02:38:25.541914 2024] [mpm_winnt:notice] [pid 9028:tid 440] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Tue Oct 08 02:38:25.541914 2024] [mpm_winnt:notice] [pid 9028:tid 440] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Tue Oct 08 02:38:25.541914 2024] [core:notice] [pid 9028:tid 440] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 08 02:38:25.541914 2024] [mpm_winnt:notice] [pid 9028:tid 440] AH00418: Parent: Created child process 8892
+[Tue Oct 08 02:38:26.010699 2024] [ssl:warn] [pid 8892:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 08 02:38:26.010699 2024] [mpm_winnt:notice] [pid 8892:tid 420] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 08 02:39:06.043920 2024] [mpm_winnt:notice] [pid 9028:tid 440] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 08 02:39:36.052608 2024] [mpm_winnt:notice] [pid 9028:tid 440] AH00431: Parent: Forcing termination of child process 8892
+[Tue Oct 08 02:39:36.708965 2024] [ssl:warn] [pid 4664:tid 440] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 08 02:39:36.708965 2024] [mpm_winnt:notice] [pid 4664:tid 440] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Tue Oct 08 02:39:36.708965 2024] [mpm_winnt:notice] [pid 4664:tid 440] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Tue Oct 08 02:39:36.708965 2024] [core:notice] [pid 4664:tid 440] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 08 02:39:36.708965 2024] [mpm_winnt:notice] [pid 4664:tid 440] AH00418: Parent: Created child process 1680
+[Tue Oct 08 02:39:37.271492 2024] [ssl:warn] [pid 1680:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 08 02:39:37.271492 2024] [mpm_winnt:notice] [pid 1680:tid 420] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 08 02:41:35.269898 2024] [mpm_winnt:notice] [pid 4664:tid 440] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 08 02:41:37.316772 2024] [mpm_winnt:notice] [pid 1680:tid 420] AH00364: Child: All worker threads have exited.
+[Tue Oct 08 02:41:37.332397 2024] [mpm_winnt:notice] [pid 4664:tid 440] AH00430: Parent: Child process 1680 exited successfully.
+[Tue Oct 08 17:12:46.912831 2024] [ssl:warn] [pid 2872:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 08 17:12:46.928455 2024] [mpm_winnt:notice] [pid 2872:tid 404] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Tue Oct 08 17:12:46.928455 2024] [mpm_winnt:notice] [pid 2872:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Tue Oct 08 17:12:46.928455 2024] [core:notice] [pid 2872:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 08 17:12:47.053456 2024] [mpm_winnt:notice] [pid 2872:tid 404] AH00418: Parent: Created child process 4424
+[Tue Oct 08 17:12:48.162831 2024] [ssl:warn] [pid 4424:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 08 17:12:48.162831 2024] [mpm_winnt:notice] [pid 4424:tid 420] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 08 18:11:22.723742 2024] [mpm_winnt:notice] [pid 2872:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 08 18:11:24.754955 2024] [mpm_winnt:notice] [pid 4424:tid 420] AH00364: Child: All worker threads have exited.
+[Tue Oct 08 18:11:24.770609 2024] [mpm_winnt:notice] [pid 2872:tid 404] AH00430: Parent: Child process 4424 exited successfully.
+[Tue Oct 08 18:13:49.801396 2024] [ssl:warn] [pid 7160:tid 416] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 08 18:13:49.817021 2024] [mpm_winnt:notice] [pid 7160:tid 416] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Tue Oct 08 18:13:49.817021 2024] [mpm_winnt:notice] [pid 7160:tid 416] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Tue Oct 08 18:13:49.817021 2024] [core:notice] [pid 7160:tid 416] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 08 18:13:49.817021 2024] [mpm_winnt:notice] [pid 7160:tid 416] AH00418: Parent: Created child process 4456
+[Tue Oct 08 18:13:50.317021 2024] [ssl:warn] [pid 4456:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 08 18:13:50.332646 2024] [mpm_winnt:notice] [pid 4456:tid 420] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 08 21:10:30.278026 2024] [mpm_winnt:notice] [pid 7160:tid 416] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 08 21:10:32.309278 2024] [mpm_winnt:notice] [pid 4456:tid 420] AH00364: Child: All worker threads have exited.
+[Tue Oct 08 21:10:32.324904 2024] [mpm_winnt:notice] [pid 7160:tid 416] AH00430: Parent: Child process 4456 exited successfully.
+[Tue Oct 08 21:10:50.327851 2024] [ssl:warn] [pid 3112:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 08 21:10:50.343475 2024] [mpm_winnt:notice] [pid 3112:tid 404] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Tue Oct 08 21:10:50.343475 2024] [mpm_winnt:notice] [pid 3112:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Tue Oct 08 21:10:50.343475 2024] [core:notice] [pid 3112:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 08 21:10:50.515352 2024] [mpm_winnt:notice] [pid 3112:tid 404] AH00418: Parent: Created child process 4172
+[Tue Oct 08 21:10:51.655976 2024] [ssl:warn] [pid 4172:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 08 21:10:51.671602 2024] [mpm_winnt:notice] [pid 4172:tid 420] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 08 21:29:47.792482 2024] [cgi:error] [pid 4172:tid 1224] [client 141.98.11.15:45058] AH02811: stderr from C:/Apache24/cgi-bin/luci: script not found or unable to stat
+[Tue Oct 08 21:59:36.674025 2024] [mpm_winnt:notice] [pid 3112:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 08 21:59:58.517746 2024] [mpm_winnt:notice] [pid 4172:tid 420] AH00364: Child: All worker threads have exited.
+[Tue Oct 08 21:59:58.533367 2024] [mpm_winnt:notice] [pid 3112:tid 404] AH00430: Parent: Child process 4172 exited successfully.
+[Tue Oct 08 21:59:59.533312 2024] [ssl:warn] [pid 6572:tid 428] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 08 21:59:59.548928 2024] [mpm_winnt:notice] [pid 6572:tid 428] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Tue Oct 08 21:59:59.548928 2024] [mpm_winnt:notice] [pid 6572:tid 428] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Tue Oct 08 21:59:59.548928 2024] [core:notice] [pid 6572:tid 428] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 08 21:59:59.548928 2024] [mpm_winnt:notice] [pid 6572:tid 428] AH00418: Parent: Created child process 6120
+[Tue Oct 08 22:00:00.033303 2024] [ssl:warn] [pid 6120:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 08 22:00:00.048928 2024] [mpm_winnt:notice] [pid 6120:tid 420] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 08 23:53:00.785550 2024] [mpm_winnt:notice] [pid 6572:tid 428] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 08 23:53:02.816793 2024] [mpm_winnt:notice] [pid 6120:tid 420] AH00364: Child: All worker threads have exited.
+[Tue Oct 08 23:53:02.832418 2024] [mpm_winnt:notice] [pid 6572:tid 428] AH00430: Parent: Child process 6120 exited successfully.
+[Tue Oct 08 23:53:20.338237 2024] [ssl:warn] [pid 3224:tid 412] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 08 23:53:20.353862 2024] [mpm_winnt:notice] [pid 3224:tid 412] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Tue Oct 08 23:53:20.353862 2024] [mpm_winnt:notice] [pid 3224:tid 412] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Tue Oct 08 23:53:20.353862 2024] [core:notice] [pid 3224:tid 412] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 08 23:53:20.463236 2024] [mpm_winnt:notice] [pid 3224:tid 412] AH00418: Parent: Created child process 4464
+[Tue Oct 08 23:53:21.619487 2024] [ssl:warn] [pid 4464:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 08 23:53:21.650737 2024] [mpm_winnt:notice] [pid 4464:tid 420] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 08 23:58:48.486424 2024] [cgi:error] [pid 4464:tid 1240] [client 185.224.128.67:45734] AH02811: stderr from C:/Apache24/cgi-bin/luci: script not found or unable to stat
+[Tue Oct 08 23:59:11.174110 2024] [cgi:error] [pid 4464:tid 1240] [client 185.224.128.67:42332] AH02811: stderr from C:/Apache24/cgi-bin/luci: script not found or unable to stat
+[Wed Oct 09 00:26:09.735837 2024] [cgi:error] [pid 4464:tid 1240] [client 5.181.190.29:59694] AH02811: stderr from C:/Apache24/cgi-bin/luci: script not found or unable to stat
+[Wed Oct 09 00:41:11.783084 2024] [core:error] [pid 4464:tid 1240] (20024)The given path is misformatted or contained invalid characters: [client 177.68.156.74:63653] AH00127: Cannot map GET /http://127.0.0.1:5000/ HTTP/1.1 to file
+[Wed Oct 09 00:41:22.345935 2024] [core:error] [pid 4464:tid 1240] (20024)The given path is misformatted or contained invalid characters: [client 177.68.156.74:63660] AH00127: Cannot map GET /:5000 HTTP/1.1 to file
+[Wed Oct 09 02:00:27.515841 2024] [cgi:error] [pid 4464:tid 1240] [client 141.98.11.15:60838] AH02811: stderr from C:/Apache24/cgi-bin/luci: script not found or unable to stat
+[Wed Oct 09 02:02:03.382316 2024] [mpm_winnt:notice] [pid 3224:tid 412] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Oct 09 02:02:05.413553 2024] [mpm_winnt:notice] [pid 4464:tid 420] AH00364: Child: All worker threads have exited.
+[Wed Oct 09 02:02:05.429266 2024] [mpm_winnt:notice] [pid 3224:tid 412] AH00430: Parent: Child process 4464 exited successfully.
+[Wed Oct 09 18:15:51.491824 2024] [ssl:warn] [pid 3216:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 09 18:15:51.507449 2024] [mpm_winnt:notice] [pid 3216:tid 404] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Wed Oct 09 18:15:51.507449 2024] [mpm_winnt:notice] [pid 3216:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Wed Oct 09 18:15:51.507449 2024] [core:notice] [pid 3216:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Wed Oct 09 18:15:51.507449 2024] [mpm_winnt:notice] [pid 3216:tid 404] AH00418: Parent: Created child process 2248
+[Wed Oct 09 18:15:52.179322 2024] [ssl:warn] [pid 2248:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 09 18:15:52.179322 2024] [mpm_winnt:notice] [pid 2248:tid 420] AH00354: Child: Starting 64 worker threads.
+[Wed Oct 09 18:36:21.496142 2024] [cgi:error] [pid 2248:tid 1236] [client 5.181.190.29:49570] AH02811: stderr from C:/Apache24/cgi-bin/luci: script not found or unable to stat
+[Wed Oct 09 18:39:59.875005 2024] [cgi:error] [pid 2248:tid 1236] [client 141.98.11.15:55858] AH02811: stderr from C:/Apache24/cgi-bin/luci: script not found or unable to stat
+[Wed Oct 09 19:32:49.745578 2024] [mpm_winnt:notice] [pid 3216:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Oct 09 19:32:51.776860 2024] [mpm_winnt:notice] [pid 2248:tid 420] AH00364: Child: All worker threads have exited.
+[Wed Oct 09 19:32:51.823951 2024] [mpm_winnt:notice] [pid 3216:tid 404] AH00430: Parent: Child process 2248 exited successfully.
+[Wed Oct 09 19:33:10.600239 2024] [ssl:warn] [pid 3120:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 09 19:33:10.615863 2024] [mpm_winnt:notice] [pid 3120:tid 404] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Wed Oct 09 19:33:10.615863 2024] [mpm_winnt:notice] [pid 3120:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Wed Oct 09 19:33:10.615863 2024] [core:notice] [pid 3120:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Wed Oct 09 19:33:10.693989 2024] [mpm_winnt:notice] [pid 3120:tid 404] AH00418: Parent: Created child process 4172
+[Wed Oct 09 19:33:12.100239 2024] [ssl:warn] [pid 4172:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 09 19:33:12.100239 2024] [mpm_winnt:notice] [pid 4172:tid 420] AH00354: Child: Starting 64 worker threads.
+[Wed Oct 09 19:33:13.584617 2024] [mpm_winnt:notice] [pid 3120:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Oct 09 19:33:15.615865 2024] [mpm_winnt:notice] [pid 4172:tid 420] AH00364: Child: All worker threads have exited.
+[Wed Oct 09 19:33:15.631488 2024] [mpm_winnt:notice] [pid 3120:tid 404] AH00430: Parent: Child process 4172 exited successfully.
+[Wed Oct 09 19:33:36.216068 2024] [ssl:warn] [pid 3100:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 09 19:33:36.231692 2024] [mpm_winnt:notice] [pid 3100:tid 404] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Wed Oct 09 19:33:36.231692 2024] [mpm_winnt:notice] [pid 3100:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Wed Oct 09 19:33:36.231692 2024] [core:notice] [pid 3100:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Wed Oct 09 19:33:36.278567 2024] [mpm_winnt:notice] [pid 3100:tid 404] AH00418: Parent: Created child process 4200
+[Wed Oct 09 19:33:37.778567 2024] [ssl:warn] [pid 4200:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 09 19:33:37.794193 2024] [mpm_winnt:notice] [pid 4200:tid 420] AH00354: Child: Starting 64 worker threads.
+[Wed Oct 09 20:05:15.348258 2024] [mpm_winnt:notice] [pid 3100:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Oct 09 20:05:17.379494 2024] [mpm_winnt:notice] [pid 4200:tid 420] AH00364: Child: All worker threads have exited.
+[Wed Oct 09 20:05:17.395118 2024] [mpm_winnt:notice] [pid 3100:tid 404] AH00430: Parent: Child process 4200 exited successfully.
+[Wed Oct 09 20:05:35.555359 2024] [ssl:warn] [pid 3128:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 09 20:05:35.570983 2024] [mpm_winnt:notice] [pid 3128:tid 404] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Wed Oct 09 20:05:35.570983 2024] [mpm_winnt:notice] [pid 3128:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Wed Oct 09 20:05:35.570983 2024] [core:notice] [pid 3128:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Wed Oct 09 20:05:35.633483 2024] [mpm_winnt:notice] [pid 3128:tid 404] AH00418: Parent: Created child process 4216
+[Wed Oct 09 20:05:36.930359 2024] [ssl:warn] [pid 4216:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 09 20:05:36.945982 2024] [mpm_winnt:notice] [pid 4216:tid 420] AH00354: Child: Starting 64 worker threads.
+[Wed Oct 09 20:58:33.791570 2024] [mpm_winnt:notice] [pid 3128:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Oct 09 20:58:35.822815 2024] [mpm_winnt:notice] [pid 4216:tid 420] AH00364: Child: All worker threads have exited.
+[Wed Oct 09 20:58:35.838444 2024] [mpm_winnt:notice] [pid 3128:tid 404] AH00430: Parent: Child process 4216 exited successfully.
+[Wed Oct 09 20:58:54.012481 2024] [ssl:warn] [pid 3232:tid 428] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 09 20:58:54.028103 2024] [mpm_winnt:notice] [pid 3232:tid 428] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Wed Oct 09 20:58:54.028103 2024] [mpm_winnt:notice] [pid 3232:tid 428] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Wed Oct 09 20:58:54.028103 2024] [core:notice] [pid 3232:tid 428] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Wed Oct 09 20:58:54.121854 2024] [mpm_winnt:notice] [pid 3232:tid 428] AH00418: Parent: Created child process 4500
+[Wed Oct 09 20:58:55.231228 2024] [ssl:warn] [pid 4500:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 09 20:58:55.246855 2024] [mpm_winnt:notice] [pid 4500:tid 420] AH00354: Child: Starting 64 worker threads.
+[Wed Oct 09 20:59:11.885940 2024] [mpm_winnt:notice] [pid 3232:tid 428] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Oct 09 20:59:33.678444 2024] [core:warn] [pid 3180:tid 404] AH00098: pid file C:/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Wed Oct 09 20:59:33.694070 2024] [ssl:warn] [pid 3180:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 09 20:59:33.694070 2024] [mpm_winnt:notice] [pid 3180:tid 404] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Wed Oct 09 20:59:33.694070 2024] [mpm_winnt:notice] [pid 3180:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Wed Oct 09 20:59:33.694070 2024] [core:notice] [pid 3180:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Wed Oct 09 20:59:33.865944 2024] [mpm_winnt:notice] [pid 3180:tid 404] AH00418: Parent: Created child process 4308
+[Wed Oct 09 20:59:35.131569 2024] [ssl:warn] [pid 4308:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 09 20:59:35.162819 2024] [mpm_winnt:notice] [pid 4308:tid 420] AH00354: Child: Starting 64 worker threads.
+[Wed Oct 09 21:32:11.299014 2024] [cgi:error] [pid 4308:tid 1244] [client 141.98.11.79:57208] AH02811: stderr from C:/Apache24/cgi-bin/luci: script not found or unable to stat
+[Wed Oct 09 22:05:09.175504 2024] [cgi:error] [pid 4308:tid 1236] [client 141.98.11.15:35872] AH02811: stderr from C:/Apache24/cgi-bin/luci: script not found or unable to stat
+[Wed Oct 09 22:07:10.702413 2024] [mpm_winnt:notice] [pid 3180:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Oct 09 22:07:23.001097 2024] [mpm_winnt:notice] [pid 4308:tid 420] AH00364: Child: All worker threads have exited.
+[Wed Oct 09 22:07:23.016722 2024] [mpm_winnt:notice] [pid 3180:tid 404] AH00430: Parent: Child process 4308 exited successfully.
+Starting the 'Apache2.4' service
+The 'Apache2.4' service is running.
+sl:warn] [pid 948:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 09 22:08:49.285889 2024] [mpm_winnt:notice] [pid 948:tid 404] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Wed Oct 09 22:08:49.285889 2024] [mpm_winnt:notice] [pid 948:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Wed Oct 09 22:08:49.285889 2024] [core:notice] [pid 948:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Wed Oct 09 22:08:49.285889 2024] [mpm_winnt:notice] [pid 948:tid 404] AH00418: Parent: Created child process 2344
+[Wed Oct 09 22:08:49.770265 2024] [ssl:warn] [pid 2344:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 09 22:08:49.785893 2024] [mpm_winnt:notice] [pid 2344:tid 420] AH00354: Child: Starting 64 worker threads.
+[Wed Oct 09 23:47:12.608208 2024] [mpm_winnt:notice] [pid 948:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Oct 09 23:47:14.639525 2024] [mpm_winnt:notice] [pid 2344:tid 420] AH00364: Child: All worker threads have exited.
+[Wed Oct 09 23:47:14.655151 2024] [mpm_winnt:notice] [pid 948:tid 404] AH00430: Parent: Child process 2344 exited successfully.
+[Wed Oct 09 23:48:29.530735 2024] [ssl:warn] [pid 7036:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 09 23:48:29.546360 2024] [mpm_winnt:notice] [pid 7036:tid 404] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Wed Oct 09 23:48:29.546360 2024] [mpm_winnt:notice] [pid 7036:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Wed Oct 09 23:48:29.546360 2024] [core:notice] [pid 7036:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Wed Oct 09 23:48:29.546360 2024] [mpm_winnt:notice] [pid 7036:tid 404] AH00418: Parent: Created child process 5024
+[Wed Oct 09 23:48:30.030738 2024] [ssl:warn] [pid 5024:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Wed Oct 09 23:48:30.046366 2024] [mpm_winnt:notice] [pid 5024:tid 420] AH00354: Child: Starting 64 worker threads.
+[Wed Oct 09 23:54:29.440186 2024] [mpm_winnt:notice] [pid 7036:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Wed Oct 09 23:54:31.471144 2024] [mpm_winnt:notice] [pid 5024:tid 420] AH00364: Child: All worker threads have exited.
+[Wed Oct 09 23:54:31.487175 2024] [mpm_winnt:notice] [pid 7036:tid 404] AH00430: Parent: Child process 5024 exited successfully.
+[Thu Oct 10 00:22:06.790536 2024] [ssl:warn] [pid 2828:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 00:22:06.790536 2024] [mpm_winnt:notice] [pid 2828:tid 404] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Thu Oct 10 00:22:06.790536 2024] [mpm_winnt:notice] [pid 2828:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Thu Oct 10 00:22:06.790536 2024] [core:notice] [pid 2828:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Oct 10 00:22:06.790536 2024] [mpm_winnt:notice] [pid 2828:tid 404] AH00418: Parent: Created child process 3344
+[Thu Oct 10 00:22:07.274913 2024] [ssl:warn] [pid 3344:tid 424] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 00:22:07.274913 2024] [mpm_winnt:notice] [pid 3344:tid 424] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 10 00:22:11.462426 2024] [mpm_winnt:notice] [pid 2828:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 10 00:22:13.493935 2024] [mpm_winnt:notice] [pid 3344:tid 424] AH00364: Child: All worker threads have exited.
+[Thu Oct 10 00:22:13.509454 2024] [mpm_winnt:notice] [pid 2828:tid 404] AH00430: Parent: Child process 3344 exited successfully.
+[Thu Oct 10 00:22:14.478108 2024] [ssl:warn] [pid 5864:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 00:22:14.478108 2024] [mpm_winnt:notice] [pid 5864:tid 404] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Thu Oct 10 00:22:14.478108 2024] [mpm_winnt:notice] [pid 5864:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Thu Oct 10 00:22:14.478108 2024] [core:notice] [pid 5864:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Oct 10 00:22:14.478108 2024] [mpm_winnt:notice] [pid 5864:tid 404] AH00418: Parent: Created child process 5488
+[Thu Oct 10 00:22:14.962442 2024] [ssl:warn] [pid 5488:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 00:22:14.962442 2024] [mpm_winnt:notice] [pid 5488:tid 420] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 10 00:43:41.373237 2024] [mpm_winnt:notice] [pid 5864:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 10 00:43:43.404376 2024] [mpm_winnt:notice] [pid 5488:tid 420] AH00364: Child: All worker threads have exited.
+[Thu Oct 10 00:43:43.420160 2024] [mpm_winnt:notice] [pid 5864:tid 404] AH00430: Parent: Child process 5488 exited successfully.
+[Thu Oct 10 00:43:57.435622 2024] [ssl:warn] [pid 6272:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 00:43:57.435622 2024] [mpm_winnt:notice] [pid 6272:tid 420] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Thu Oct 10 00:43:57.435622 2024] [mpm_winnt:notice] [pid 6272:tid 420] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Thu Oct 10 00:43:57.435622 2024] [core:notice] [pid 6272:tid 420] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Oct 10 00:43:57.451246 2024] [mpm_winnt:notice] [pid 6272:tid 420] AH00418: Parent: Created child process 4388
+[Thu Oct 10 00:43:57.919997 2024] [ssl:warn] [pid 4388:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 00:43:57.919997 2024] [mpm_winnt:notice] [pid 4388:tid 420] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 10 01:34:40.690575 2024] [cgi:error] [pid 4388:tid 1224] [client 141.98.11.15:58478] AH02811: stderr from C:/Apache24/cgi-bin/luci: script not found or unable to stat
+[Thu Oct 10 02:03:49.745915 2024] [mpm_winnt:notice] [pid 6272:tid 420] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 10 02:03:51.777157 2024] [mpm_winnt:notice] [pid 4388:tid 420] AH00364: Child: All worker threads have exited.
+[Thu Oct 10 02:03:51.792782 2024] [mpm_winnt:notice] [pid 6272:tid 420] AH00430: Parent: Child process 4388 exited successfully.
+[Thu Oct 10 02:04:11.633261 2024] [ssl:warn] [pid 3136:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 02:04:11.633261 2024] [mpm_winnt:notice] [pid 3136:tid 404] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Thu Oct 10 02:04:11.633261 2024] [mpm_winnt:notice] [pid 3136:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Thu Oct 10 02:04:11.633261 2024] [core:notice] [pid 3136:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Oct 10 02:04:11.836384 2024] [mpm_winnt:notice] [pid 3136:tid 404] AH00418: Parent: Created child process 4324
+[Thu Oct 10 02:04:12.961387 2024] [ssl:warn] [pid 4324:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 02:04:12.977010 2024] [mpm_winnt:notice] [pid 4324:tid 420] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 10 02:18:29.684952 2024] [mpm_winnt:notice] [pid 3136:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 10 02:18:31.716206 2024] [mpm_winnt:notice] [pid 4324:tid 420] AH00364: Child: All worker threads have exited.
+[Thu Oct 10 02:18:31.731818 2024] [mpm_winnt:notice] [pid 3136:tid 404] AH00430: Parent: Child process 4324 exited successfully.
+[Thu Oct 10 02:19:38.876460 2024] [ssl:warn] [pid 2172:tid 412] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 02:19:38.876460 2024] [mpm_winnt:notice] [pid 2172:tid 412] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Thu Oct 10 02:19:38.876460 2024] [mpm_winnt:notice] [pid 2172:tid 412] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Thu Oct 10 02:19:38.876460 2024] [core:notice] [pid 2172:tid 412] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Oct 10 02:19:39.001459 2024] [mpm_winnt:notice] [pid 2172:tid 412] AH00418: Parent: Created child process 3468
+[Thu Oct 10 02:19:40.204584 2024] [ssl:warn] [pid 3468:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 02:19:40.204584 2024] [mpm_winnt:notice] [pid 3468:tid 420] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 10 03:22:21.622680 2024] [mpm_winnt:notice] [pid 2172:tid 412] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 10 03:22:23.653922 2024] [mpm_winnt:notice] [pid 3468:tid 420] AH00364: Child: All worker threads have exited.
+[Thu Oct 10 03:22:23.669557 2024] [mpm_winnt:notice] [pid 2172:tid 412] AH00430: Parent: Child process 3468 exited successfully.
+[Thu Oct 10 03:49:34.059857 2024] [ssl:warn] [pid 8208:tid 428] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 03:49:34.059857 2024] [mpm_winnt:notice] [pid 8208:tid 428] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Thu Oct 10 03:49:34.059857 2024] [mpm_winnt:notice] [pid 8208:tid 428] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Thu Oct 10 03:49:34.059857 2024] [core:notice] [pid 8208:tid 428] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Oct 10 03:49:34.075482 2024] [mpm_winnt:notice] [pid 8208:tid 428] AH00418: Parent: Created child process 8804
+[Thu Oct 10 03:49:34.544233 2024] [ssl:warn] [pid 8804:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 03:49:34.544233 2024] [mpm_winnt:notice] [pid 8804:tid 420] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 10 04:08:27.266888 2024] [mpm_winnt:notice] [pid 8208:tid 428] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 10 04:08:29.298079 2024] [mpm_winnt:notice] [pid 8804:tid 420] AH00364: Child: All worker threads have exited.
+[Thu Oct 10 04:08:29.313709 2024] [mpm_winnt:notice] [pid 8208:tid 428] AH00430: Parent: Child process 8804 exited successfully.
+[Thu Oct 10 04:47:14.569457 2024] [ssl:warn] [pid 5392:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 04:47:14.569457 2024] [mpm_winnt:notice] [pid 5392:tid 404] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Thu Oct 10 04:47:14.569457 2024] [mpm_winnt:notice] [pid 5392:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Thu Oct 10 04:47:14.569457 2024] [core:notice] [pid 5392:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Oct 10 04:47:14.585084 2024] [mpm_winnt:notice] [pid 5392:tid 404] AH00418: Parent: Created child process 1992
+[Thu Oct 10 04:47:15.053833 2024] [ssl:warn] [pid 1992:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 04:47:15.053833 2024] [mpm_winnt:notice] [pid 1992:tid 420] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 10 04:58:32.429644 2024] [mpm_winnt:notice] [pid 5392:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 10 04:58:34.460892 2024] [mpm_winnt:notice] [pid 1992:tid 420] AH00364: Child: All worker threads have exited.
+[Thu Oct 10 04:58:34.476562 2024] [mpm_winnt:notice] [pid 5392:tid 404] AH00430: Parent: Child process 1992 exited successfully.
+[Thu Oct 10 14:08:54.130396 2024] [ssl:warn] [pid 3076:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 14:08:54.146020 2024] [mpm_winnt:notice] [pid 3076:tid 404] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Thu Oct 10 14:08:54.146020 2024] [mpm_winnt:notice] [pid 3076:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Thu Oct 10 14:08:54.146020 2024] [core:notice] [pid 3076:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Oct 10 14:08:54.146020 2024] [mpm_winnt:notice] [pid 3076:tid 404] AH00418: Parent: Created child process 4188
+[Thu Oct 10 14:08:54.724148 2024] [ssl:warn] [pid 4188:tid 452] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 14:08:54.724148 2024] [mpm_winnt:notice] [pid 4188:tid 452] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 10 15:41:56.493003 2024] [mpm_winnt:notice] [pid 3076:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 10 15:41:58.524242 2024] [mpm_winnt:notice] [pid 4188:tid 452] AH00364: Child: All worker threads have exited.
+[Thu Oct 10 15:41:58.539870 2024] [mpm_winnt:notice] [pid 3076:tid 404] AH00430: Parent: Child process 4188 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+[Thu Oct 10 17:26:48.698193 2024] [ssl:warn] [pid 3312:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 17:26:48.698193 2024] [mpm_winnt:notice] [pid 3312:tid 404] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Thu Oct 10 17:26:48.698193 2024] [mpm_winnt:notice] [pid 3312:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Thu Oct 10 17:26:48.698193 2024] [core:notice] [pid 3312:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Oct 10 17:26:48.713818 2024] [mpm_winnt:notice] [pid 3312:tid 404] AH00418: Parent: Created child process 4676
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+[Thu Oct 10 17:26:49.729444 2024] [ssl:warn] [pid 4676:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 17:26:49.729444 2024] [mpm_winnt:notice] [pid 4676:tid 420] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 10 17:29:04.785524 2024] [proxy:warn] [pid 4676:tid 1236] [client 179.165.7.153:50692] AH01144: No protocol handler was valid for the URL / (scheme 'http'). If you are using a DSO version of mod_proxy, make sure the proxy submodules are included in the configuration using LoadModule.
+[Thu Oct 10 17:29:05.066872 2024] [proxy:warn] [pid 4676:tid 1240] [client 179.165.7.153:50691] AH01144: No protocol handler was valid for the URL /favicon.ico (scheme 'http'). If you are using a DSO version of mod_proxy, make sure the proxy submodules are included in the configuration using LoadModule., referer: http://www.verificaaluno.com.br/
+[Thu Oct 10 17:30:49.065554 2024] [proxy:warn] [pid 4676:tid 1236] [client 179.165.7.153:50705] AH01144: No protocol handler was valid for the URL / (scheme 'http'). If you are using a DSO version of mod_proxy, make sure the proxy submodules are included in the configuration using LoadModule.
+[Thu Oct 10 17:30:49.221891 2024] [proxy:warn] [pid 4676:tid 1240] [client 179.165.7.153:50704] AH01144: No protocol handler was valid for the URL /favicon.ico (scheme 'http'). If you are using a DSO version of mod_proxy, make sure the proxy submodules are included in the configuration using LoadModule., referer: http://www.verificaaluno.com.br/
+[Thu Oct 10 17:30:54.210487 2024] [proxy:warn] [pid 4676:tid 1240] [client 179.165.7.153:50706] AH01144: No protocol handler was valid for the URL / (scheme 'http'). If you are using a DSO version of mod_proxy, make sure the proxy submodules are included in the configuration using LoadModule.
+[Thu Oct 10 17:30:54.366689 2024] [proxy:warn] [pid 4676:tid 1236] [client 179.165.7.153:50707] AH01144: No protocol handler was valid for the URL /favicon.ico (scheme 'http'). If you are using a DSO version of mod_proxy, make sure the proxy submodules are included in the configuration using LoadModule., referer: http://www.verificaaluno.com.br/
+[Thu Oct 10 17:38:12.906352 2024] [proxy:warn] [pid 4676:tid 1232] [client 141.98.11.15:44776] AH01144: No protocol handler was valid for the URL /cgi-bin/luci/;stok=/locale (scheme 'http'). If you are using a DSO version of mod_proxy, make sure the proxy submodules are included in the configuration using LoadModule.
+[Thu Oct 10 17:54:01.143538 2024] [proxy:warn] [pid 4676:tid 1236] [client 195.178.110.32:51426] AH01144: No protocol handler was valid for the URL /.git/config (scheme 'http'). If you are using a DSO version of mod_proxy, make sure the proxy submodules are included in the configuration using LoadModule.
+[Thu Oct 10 18:02:51.859835 2024] [proxy:warn] [pid 4676:tid 1240] [client 152.42.247.210:57958] AH01144: No protocol handler was valid for the URL /cdn-cgi/trace (scheme 'http'). If you are using a DSO version of mod_proxy, make sure the proxy submodules are included in the configuration using LoadModule.
+[Thu Oct 10 18:08:10.894984 2024] [mpm_winnt:notice] [pid 3312:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 10 18:08:17.410613 2024] [mpm_winnt:notice] [pid 4676:tid 420] AH00364: Child: All worker threads have exited.
+[Thu Oct 10 18:08:17.426249 2024] [mpm_winnt:notice] [pid 3312:tid 404] AH00430: Parent: Child process 4676 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+[Thu Oct 10 18:35:40.834010 2024] [ssl:warn] [pid 3416:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 18:35:40.834010 2024] [mpm_winnt:notice] [pid 3416:tid 420] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Thu Oct 10 18:35:40.834010 2024] [mpm_winnt:notice] [pid 3416:tid 420] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Thu Oct 10 18:35:40.834010 2024] [core:notice] [pid 3416:tid 420] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Oct 10 18:35:40.834010 2024] [mpm_winnt:notice] [pid 3416:tid 420] AH00418: Parent: Created child process 4532
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+[Thu Oct 10 18:35:41.959011 2024] [ssl:warn] [pid 4532:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 18:35:41.959011 2024] [mpm_winnt:notice] [pid 4532:tid 420] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 10 18:36:14.063071 2024] [mpm_winnt:notice] [pid 3416:tid 420] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 10 18:36:16.094419 2024] [mpm_winnt:notice] [pid 4532:tid 420] AH00364: Child: All worker threads have exited.
+[Thu Oct 10 18:36:16.109974 2024] [mpm_winnt:notice] [pid 3416:tid 420] AH00430: Parent: Child process 4532 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+[Thu Oct 10 18:36:36.909931 2024] [ssl:warn] [pid 3268:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 18:36:36.909931 2024] [mpm_winnt:notice] [pid 3268:tid 404] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Thu Oct 10 18:36:36.909931 2024] [mpm_winnt:notice] [pid 3268:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Thu Oct 10 18:36:36.909931 2024] [core:notice] [pid 3268:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Oct 10 18:36:37.066181 2024] [mpm_winnt:notice] [pid 3268:tid 404] AH00418: Parent: Created child process 4428
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+[Thu Oct 10 18:36:38.425556 2024] [ssl:warn] [pid 4428:tid 428] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 18:36:38.425556 2024] [mpm_winnt:notice] [pid 4428:tid 428] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 10 18:36:47.014300 2024] [proxy:warn] [pid 4428:tid 1240] [client 52.167.144.161:27020] AH01144: No protocol handler was valid for the URL /sites/site Carlos/InfraSSRN.html (scheme 'http'). If you are using a DSO version of mod_proxy, make sure the proxy submodules are included in the configuration using LoadModule.
+[Thu Oct 10 18:46:40.411957 2024] [proxy:warn] [pid 4428:tid 1240] [client 179.165.7.153:50516] AH01144: No protocol handler was valid for the URL / (scheme 'http'). If you are using a DSO version of mod_proxy, make sure the proxy submodules are included in the configuration using LoadModule.
+[Thu Oct 10 18:46:40.689867 2024] [proxy:warn] [pid 4428:tid 1236] [client 179.165.7.153:50515] AH01144: No protocol handler was valid for the URL /favicon.ico (scheme 'http'). If you are using a DSO version of mod_proxy, make sure the proxy submodules are included in the configuration using LoadModule., referer: http://www.verificaaluno.com.br/
+[Thu Oct 10 18:46:45.379438 2024] [proxy:warn] [pid 4428:tid 1240] [client 179.165.7.153:50517] AH01144: No protocol handler was valid for the URL / (scheme 'http'). If you are using a DSO version of mod_proxy, make sure the proxy submodules are included in the configuration using LoadModule.
+[Thu Oct 10 18:46:45.535685 2024] [proxy:warn] [pid 4428:tid 1236] [client 179.165.7.153:50518] AH01144: No protocol handler was valid for the URL /favicon.ico (scheme 'http'). If you are using a DSO version of mod_proxy, make sure the proxy submodules are included in the configuration using LoadModule., referer: http://www.verificaaluno.com.br/
+[Thu Oct 10 18:47:04.206179 2024] [proxy:warn] [pid 4428:tid 1240] [client 127.0.0.1:49988] AH01144: No protocol handler was valid for the URL / (scheme 'http'). If you are using a DSO version of mod_proxy, make sure the proxy submodules are included in the configuration using LoadModule.
+[Thu Oct 10 18:47:04.442160 2024] [proxy:warn] [pid 4428:tid 1232] [client 127.0.0.1:49989] AH01144: No protocol handler was valid for the URL /favicon.ico (scheme 'http'). If you are using a DSO version of mod_proxy, make sure the proxy submodules are included in the configuration using LoadModule., referer: http://localhost/
+[Thu Oct 10 18:47:36.593802 2024] [proxy:warn] [pid 4428:tid 1232] [client 127.0.0.1:50039] AH01144: No protocol handler was valid for the URL / (scheme 'http'). If you are using a DSO version of mod_proxy, make sure the proxy submodules are included in the configuration using LoadModule.
+[Thu Oct 10 18:47:36.618101 2024] [proxy:warn] [pid 4428:tid 1232] [client 127.0.0.1:50040] AH01144: No protocol handler was valid for the URL /favicon.ico (scheme 'http'). If you are using a DSO version of mod_proxy, make sure the proxy submodules are included in the configuration using LoadModule., referer: http://localhost/
+[Thu Oct 10 18:48:43.357988 2024] [proxy:warn] [pid 4428:tid 1236] [client 127.0.0.1:50091] AH01144: No protocol handler was valid for the URL / (scheme 'http'). If you are using a DSO version of mod_proxy, make sure the proxy submodules are included in the configuration using LoadModule.
+[Thu Oct 10 18:48:43.417939 2024] [proxy:warn] [pid 4428:tid 1236] [client 127.0.0.1:50092] AH01144: No protocol handler was valid for the URL /favicon.ico (scheme 'http'). If you are using a DSO version of mod_proxy, make sure the proxy submodules are included in the configuration using LoadModule., referer: http://localhost/
+[Thu Oct 10 19:01:16.778999 2024] [proxy:warn] [pid 4428:tid 1236] [client 179.165.7.153:50828] AH01144: No protocol handler was valid for the URL /favicon.ico (scheme 'http'). If you are using a DSO version of mod_proxy, make sure the proxy submodules are included in the configuration using LoadModule., referer: http://www.verificaaluno.com.br/
+[Thu Oct 10 19:03:29.756691 2024] [proxy:warn] [pid 4428:tid 1232] [client 40.77.167.6:48137] AH01144: No protocol handler was valid for the URL / (scheme 'http'). If you are using a DSO version of mod_proxy, make sure the proxy submodules are included in the configuration using LoadModule.
+[Thu Oct 10 19:08:24.247900 2024] [proxy:warn] [pid 4428:tid 1236] [client 46.174.191.32:28586] AH01144: No protocol handler was valid for the URL / (scheme 'http'). If you are using a DSO version of mod_proxy, make sure the proxy submodules are included in the configuration using LoadModule.
+[Thu Oct 10 19:11:27.198675 2024] [proxy:warn] [pid 4428:tid 1236] [client 149.50.103.48:57944] AH01144: No protocol handler was valid for the URL / (scheme 'http'). If you are using a DSO version of mod_proxy, make sure the proxy submodules are included in the configuration using LoadModule.
+[Thu Oct 10 19:13:13.349349 2024] [proxy:warn] [pid 4428:tid 1236] [client 179.165.7.153:51153] AH01144: No protocol handler was valid for the URL / (scheme 'http'). If you are using a DSO version of mod_proxy, make sure the proxy submodules are included in the configuration using LoadModule.
+[Thu Oct 10 19:13:13.543287 2024] [proxy:warn] [pid 4428:tid 1232] [client 179.165.7.153:51154] AH01144: No protocol handler was valid for the URL /favicon.ico (scheme 'http'). If you are using a DSO version of mod_proxy, make sure the proxy submodules are included in the configuration using LoadModule., referer: http://www.verificaaluno.com.br/
+[Thu Oct 10 19:24:46.459510 2024] [proxy:warn] [pid 4428:tid 1232] [client 141.98.11.34:46488] AH01144: No protocol handler was valid for the URL /boaform/admin/formLogin (scheme 'http'). If you are using a DSO version of mod_proxy, make sure the proxy submodules are included in the configuration using LoadModule., referer: http://13.92.119.246:80/admin/login.asp
+[Thu Oct 10 19:39:57.256676 2024] [proxy:warn] [pid 4428:tid 1232] [client 95.214.55.43:35114] AH01144: No protocol handler was valid for the URL / (scheme 'http'). If you are using a DSO version of mod_proxy, make sure the proxy submodules are included in the configuration using LoadModule.
+[Thu Oct 10 19:53:09.344911 2024] [mpm_winnt:notice] [pid 3268:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 10 19:53:11.376196 2024] [mpm_winnt:notice] [pid 4428:tid 428] AH00364: Child: All worker threads have exited.
+[Thu Oct 10 19:53:11.391795 2024] [mpm_winnt:notice] [pid 3268:tid 404] AH00430: Parent: Child process 4428 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+[Thu Oct 10 19:53:30.746734 2024] [ssl:warn] [pid 3112:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 19:53:30.746734 2024] [mpm_winnt:notice] [pid 3112:tid 404] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Thu Oct 10 19:53:30.746734 2024] [mpm_winnt:notice] [pid 3112:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Thu Oct 10 19:53:30.746734 2024] [core:notice] [pid 3112:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Oct 10 19:53:30.856110 2024] [mpm_winnt:notice] [pid 3112:tid 404] AH00418: Parent: Created child process 4208
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+[Thu Oct 10 19:53:32.059237 2024] [ssl:warn] [pid 4208:tid 428] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 19:53:32.059237 2024] [mpm_winnt:notice] [pid 4208:tid 428] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 10 20:15:25.646228 2024] [proxy:error] [pid 4208:tid 1240] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: http: attempt to connect to 127.0.0.1:5000 (localhost:5000) failed
+[Thu Oct 10 20:15:25.646228 2024] [proxy_http:error] [pid 4208:tid 1240] [client 185.191.126.213:37736] AH01114: HTTP: failed to make connection to backend: localhost
+[Thu Oct 10 20:27:25.902727 2024] [proxy:error] [pid 4208:tid 1240] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: http: attempt to connect to 127.0.0.1:5000 (localhost:5000) failed
+[Thu Oct 10 20:27:25.902727 2024] [proxy_http:error] [pid 4208:tid 1240] [client 149.50.103.48:44086] AH01114: HTTP: failed to make connection to backend: localhost
+[Thu Oct 10 20:31:12.173700 2024] [proxy:error] [pid 4208:tid 1240] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: http: attempt to connect to 127.0.0.1:5000 (localhost:5000) failed
+[Thu Oct 10 20:31:12.173700 2024] [proxy_http:error] [pid 4208:tid 1240] [client 181.214.153.35:37199] AH01114: HTTP: failed to make connection to backend: localhost
+[Thu Oct 10 20:42:05.189029 2024] [proxy:error] [pid 4208:tid 1240] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: http: attempt to connect to 127.0.0.1:5000 (localhost:5000) failed
+[Thu Oct 10 20:42:05.189029 2024] [proxy_http:error] [pid 4208:tid 1240] [client 179.165.7.153:52648] AH01114: HTTP: failed to make connection to backend: localhost
+[Thu Oct 10 20:42:09.635974 2024] [proxy:error] [pid 4208:tid 1236] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: http: attempt to connect to 127.0.0.1:5000 (localhost:5000) failed
+[Thu Oct 10 20:42:09.635974 2024] [proxy_http:error] [pid 4208:tid 1236] [client 179.165.7.153:52647] AH01114: HTTP: failed to make connection to backend: localhost, referer: http://www.verificaaluno.com.br/
+[Thu Oct 10 21:03:42.666865 2024] [mpm_winnt:notice] [pid 3112:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 10 21:03:44.698125 2024] [mpm_winnt:notice] [pid 4208:tid 428] AH00364: Child: All worker threads have exited.
+[Thu Oct 10 21:03:44.713737 2024] [mpm_winnt:notice] [pid 3112:tid 404] AH00430: Parent: Child process 4208 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+[Thu Oct 10 21:04:02.909570 2024] [ssl:warn] [pid 3152:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 21:04:02.909570 2024] [mpm_winnt:notice] [pid 3152:tid 404] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Thu Oct 10 21:04:02.909570 2024] [mpm_winnt:notice] [pid 3152:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Thu Oct 10 21:04:02.909570 2024] [core:notice] [pid 3152:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Oct 10 21:04:03.018946 2024] [mpm_winnt:notice] [pid 3152:tid 404] AH00418: Parent: Created child process 4216
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+[Thu Oct 10 21:04:04.315823 2024] [ssl:warn] [pid 4216:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 21:04:04.315823 2024] [mpm_winnt:notice] [pid 4216:tid 420] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 10 21:04:40.299695 2024] [proxy:error] [pid 4216:tid 1240] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: http: attempt to connect to 127.0.0.1:5000 (localhost:5000) failed
+[Thu Oct 10 21:04:40.299695 2024] [proxy_http:error] [pid 4216:tid 1240] [client 179.165.7.153:53073] AH01114: HTTP: failed to make connection to backend: localhost
+[Thu Oct 10 21:06:31.679863 2024] [proxy:error] [pid 4216:tid 1240] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: http: attempt to connect to 127.0.0.1:5000 (localhost:5000) failed
+[Thu Oct 10 21:06:31.679863 2024] [proxy_http:error] [pid 4216:tid 1240] [client 179.165.7.153:38356] AH01114: HTTP: failed to make connection to backend: localhost
+[Thu Oct 10 21:06:36.065596 2024] [proxy:error] [pid 4216:tid 1236] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: http: attempt to connect to 127.0.0.1:5000 (localhost:5000) failed
+[Thu Oct 10 21:06:36.065596 2024] [proxy_http:error] [pid 4216:tid 1236] [client 179.165.7.153:38362] AH01114: HTTP: failed to make connection to backend: localhost, referer: http://www.verificaaluno.com.br/
+[Thu Oct 10 21:06:39.773702 2024] [proxy:error] [pid 4216:tid 1240] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: http: attempt to connect to 127.0.0.1:5000 (localhost:5000) failed
+[Thu Oct 10 21:06:39.773702 2024] [proxy_http:error] [pid 4216:tid 1240] [client 179.165.7.153:38368] AH01114: HTTP: failed to make connection to backend: localhost
+[Thu Oct 10 21:06:44.247944 2024] [proxy:error] [pid 4216:tid 1240] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: http: attempt to connect to 127.0.0.1:5000 (localhost:5000) failed
+[Thu Oct 10 21:06:44.247944 2024] [proxy_http:error] [pid 4216:tid 1240] [client 179.165.7.153:43660] AH01114: HTTP: failed to make connection to backend: localhost, referer: http://www.verificaaluno.com.br/
+[Thu Oct 10 21:07:18.081434 2024] [mpm_winnt:notice] [pid 3152:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+[Thu Oct 10 22:04:39.348677 2024] [core:warn] [pid 3160:tid 420] AH00098: pid file C:/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Oct 10 22:04:39.348677 2024] [ssl:warn] [pid 3160:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 22:04:39.348677 2024] [mpm_winnt:notice] [pid 3160:tid 420] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Thu Oct 10 22:04:39.348677 2024] [mpm_winnt:notice] [pid 3160:tid 420] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Thu Oct 10 22:04:39.348677 2024] [core:notice] [pid 3160:tid 420] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Oct 10 22:04:39.348677 2024] [mpm_winnt:notice] [pid 3160:tid 420] AH00418: Parent: Created child process 4868
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+[Thu Oct 10 22:04:39.942427 2024] [ssl:warn] [pid 4868:tid 424] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 22:04:39.958052 2024] [mpm_winnt:notice] [pid 4868:tid 424] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 10 22:05:21.176902 2024] [proxy:error] [pid 4868:tid 1236] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: http: attempt to connect to 127.0.0.1:5000 (localhost:5000) failed
+[Thu Oct 10 22:05:21.176902 2024] [proxy_http:error] [pid 4868:tid 1236] [client 45.170.58.10:50111] AH01114: HTTP: failed to make connection to backend: localhost
+[Thu Oct 10 22:05:25.441937 2024] [proxy:error] [pid 4868:tid 1240] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: http: attempt to connect to 127.0.0.1:5000 (localhost:5000) failed
+[Thu Oct 10 22:05:25.441937 2024] [proxy_http:error] [pid 4868:tid 1240] [client 45.170.58.10:50112] AH01114: HTTP: failed to make connection to backend: localhost, referer: http://www.verificaaluno.com.br/
+[Thu Oct 10 22:07:17.812039 2024] [proxy:error] [pid 4868:tid 1240] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: http: attempt to connect to 127.0.0.1:5000 (localhost:5000) failed
+[Thu Oct 10 22:07:17.812039 2024] [proxy_http:error] [pid 4868:tid 1240] [client 45.170.58.10:50152] AH01114: HTTP: failed to make connection to backend: localhost
+[Thu Oct 10 22:07:22.060618 2024] [proxy:error] [pid 4868:tid 1232] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: http: attempt to connect to 127.0.0.1:5000 (localhost:5000) failed
+[Thu Oct 10 22:07:22.060618 2024] [proxy_http:error] [pid 4868:tid 1232] [client 45.170.58.10:50153] AH01114: HTTP: failed to make connection to backend: localhost, referer: http://www.verificaaluno.com.br/
+[Thu Oct 10 22:12:00.194231 2024] [proxy:error] [pid 4868:tid 1232] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: http: attempt to connect to 127.0.0.1:5000 (localhost:5000) failed
+[Thu Oct 10 22:12:00.194231 2024] [proxy_http:error] [pid 4868:tid 1232] [client 128.14.159.252:43795] AH01114: HTTP: failed to make connection to backend: localhost
+[Thu Oct 10 22:12:23.864508 2024] [proxy:error] [pid 4868:tid 1232] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: http: attempt to connect to 127.0.0.1:5000 (localhost:5000) failed
+[Thu Oct 10 22:12:23.864508 2024] [proxy_http:error] [pid 4868:tid 1232] [client 18.219.53.7:39450] AH01114: HTTP: failed to make connection to backend: localhost
+[Thu Oct 10 22:13:20.970122 2024] [proxy:error] [pid 4868:tid 1232] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: http: attempt to connect to 127.0.0.1:5000 (localhost:5000) failed
+[Thu Oct 10 22:13:20.970122 2024] [proxy_http:error] [pid 4868:tid 1232] [client 18.219.53.7:52174] AH01114: HTTP: failed to make connection to backend: localhost
+[Thu Oct 10 22:13:22.860560 2024] [mpm_winnt:notice] [pid 3160:tid 420] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 10 22:13:24.891819 2024] [mpm_winnt:notice] [pid 4868:tid 424] AH00364: Child: All worker threads have exited.
+[Thu Oct 10 22:13:24.907525 2024] [mpm_winnt:notice] [pid 3160:tid 420] AH00430: Parent: Child process 4868 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+[Thu Oct 10 22:20:48.354068 2024] [ssl:warn] [pid 2956:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 22:20:48.354068 2024] [mpm_winnt:notice] [pid 2956:tid 404] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Thu Oct 10 22:20:48.354068 2024] [mpm_winnt:notice] [pid 2956:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Thu Oct 10 22:20:48.354068 2024] [core:notice] [pid 2956:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Thu Oct 10 22:20:48.354068 2024] [mpm_winnt:notice] [pid 2956:tid 404] AH00418: Parent: Created child process 4552
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+[Thu Oct 10 22:20:48.885316 2024] [ssl:warn] [pid 4552:tid 452] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Thu Oct 10 22:20:48.885316 2024] [mpm_winnt:notice] [pid 4552:tid 452] AH00354: Child: Starting 64 worker threads.
+[Thu Oct 10 22:21:29.840355 2024] [proxy:error] [pid 4552:tid 1240] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: http: attempt to connect to 127.0.0.1:5000 (localhost:5000) failed
+[Thu Oct 10 22:21:29.840355 2024] [proxy_http:error] [pid 4552:tid 1240] [client 45.170.58.10:50305] AH01114: HTTP: failed to make connection to backend: localhost
+[Thu Oct 10 22:21:34.074883 2024] [proxy:error] [pid 4552:tid 1236] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: http: attempt to connect to 127.0.0.1:5000 (localhost:5000) failed
+[Thu Oct 10 22:21:34.074883 2024] [proxy_http:error] [pid 4552:tid 1236] [client 45.170.58.10:50306] AH01114: HTTP: failed to make connection to backend: localhost, referer: http://www.verificaaluno.com.br/
+[Thu Oct 10 22:21:54.359594 2024] [proxy:error] [pid 4552:tid 1240] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: http: attempt to connect to 127.0.0.1:5000 (localhost:5000) failed
+[Thu Oct 10 22:21:54.359594 2024] [proxy_http:error] [pid 4552:tid 1240] [client 45.170.58.10:50312] AH01114: HTTP: failed to make connection to backend: localhost
+[Thu Oct 10 22:21:58.546519 2024] [proxy:error] [pid 4552:tid 1236] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: http: attempt to connect to 127.0.0.1:5000 (localhost:5000) failed
+[Thu Oct 10 22:21:58.546519 2024] [proxy_http:error] [pid 4552:tid 1236] [client 45.170.58.10:50313] AH01114: HTTP: failed to make connection to backend: localhost, referer: http://www.verificaaluno.com.br/
+[Thu Oct 10 22:22:02.414064 2024] [proxy:error] [pid 4552:tid 1240] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: http: attempt to connect to 127.0.0.1:5000 (localhost:5000) failed
+[Thu Oct 10 22:22:02.414064 2024] [proxy_http:error] [pid 4552:tid 1240] [client 45.170.58.10:50314] AH01114: HTTP: failed to make connection to backend: localhost
+[Thu Oct 10 22:22:06.773851 2024] [proxy:error] [pid 4552:tid 1236] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: http: attempt to connect to 127.0.0.1:5000 (localhost:5000) failed
+[Thu Oct 10 22:22:06.773851 2024] [proxy_http:error] [pid 4552:tid 1236] [client 45.170.58.10:50317] AH01114: HTTP: failed to make connection to backend: localhost, referer: http://www.verificaaluno.com.br/
+[Thu Oct 10 22:53:56.130038 2024] [proxy_http:error] [pid 4552:tid 1236] (OS 10060)A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.  : [client 45.170.58.10:42288] AH01102: error reading status line from remote server localhost:5000, referer: http://verificaaluno.com.br/login?next=%2Fadd-post
+[Thu Oct 10 22:53:56.130038 2024] [proxy:error] [pid 4552:tid 1236] [client 45.170.58.10:42288] AH00898: Error reading from remote server returned by /add-post, referer: http://verificaaluno.com.br/login?next=%2Fadd-post
+[Thu Oct 10 22:53:58.474003 2024] [proxy_http:error] [pid 4552:tid 1232] (OS 10060)A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.  : [client 45.170.58.10:50511] AH01102: error reading status line from remote server localhost:5000, referer: http://www.verificaaluno.com.br/
+[Thu Oct 10 22:53:58.474003 2024] [proxy:error] [pid 4552:tid 1232] [client 45.170.58.10:50511] AH00898: Error reading from remote server returned by /user/add, referer: http://www.verificaaluno.com.br/
+[Thu Oct 10 22:54:04.457848 2024] [proxy_http:error] [pid 4552:tid 1228] (OS 10060)A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.  : [client 45.170.58.10:50512] AH01102: error reading status line from remote server localhost:5000, referer: http://www.verificaaluno.com.br/
+[Thu Oct 10 22:54:04.457848 2024] [proxy:error] [pid 4552:tid 1228] [client 45.170.58.10:50512] AH00898: Error reading from remote server returned by /add-post, referer: http://www.verificaaluno.com.br/
+[Thu Oct 10 22:54:08.422206 2024] [proxy_http:error] [pid 4552:tid 1240] (OS 10060)A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.  : [client 45.170.58.10:50513] AH01102: error reading status line from remote server localhost:5000, referer: http://www.verificaaluno.com.br/
+[Thu Oct 10 22:54:08.422206 2024] [proxy:error] [pid 4552:tid 1240] [client 45.170.58.10:50513] AH00898: Error reading from remote server returned by /add-post, referer: http://www.verificaaluno.com.br/
+[Thu Oct 10 22:54:20.373739 2024] [proxy_http:error] [pid 4552:tid 1224] (OS 10060)A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.  : [client 45.170.58.10:42304] AH01102: error reading status line from remote server localhost:5000, referer: http://verificaaluno.com.br/login?next=%2Fadd-post
+[Thu Oct 10 22:54:20.373739 2024] [proxy:error] [pid 4552:tid 1224] [client 45.170.58.10:42304] AH00898: Error reading from remote server returned by /login, referer: http://verificaaluno.com.br/login?next=%2Fadd-post
+[Thu Oct 10 22:54:29.128970 2024] [proxy_http:error] [pid 4552:tid 1220] (OS 10060)A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.  : [client 45.170.58.10:50514] AH01102: error reading status line from remote server localhost:5000, referer: http://www.verificaaluno.com.br/
+[Thu Oct 10 22:54:29.128970 2024] [proxy:error] [pid 4552:tid 1220] [client 45.170.58.10:50514] AH00898: Error reading from remote server returned by /, referer: http://www.verificaaluno.com.br/
+[Thu Oct 10 22:54:31.089354 2024] [proxy_http:error] [pid 4552:tid 1212] (OS 10060)A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.  : [client 45.170.58.10:50515] AH01102: error reading status line from remote server localhost:5000, referer: http://www.verificaaluno.com.br/
+[Thu Oct 10 22:54:31.089354 2024] [proxy:error] [pid 4552:tid 1212] [client 45.170.58.10:50515] AH00898: Error reading from remote server returned by /, referer: http://www.verificaaluno.com.br/
+[Thu Oct 10 22:54:40.239664 2024] [proxy_http:error] [pid 4552:tid 1204] (OS 10060)A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.  : [client 185.242.226.115:49275] AH01102: error reading status line from remote server localhost:5000
+[Thu Oct 10 22:54:40.239664 2024] [proxy:error] [pid 4552:tid 1204] [client 185.242.226.115:49275] AH00898: Error reading from remote server returned by /
+[Thu Oct 10 22:54:46.051716 2024] [proxy_http:error] [pid 4552:tid 1208] (OS 10060)A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.  : [client 45.170.58.10:50516] AH01102: error reading status line from remote server localhost:5000, referer: http://www.verificaaluno.com.br/
+[Thu Oct 10 22:54:46.051716 2024] [proxy:error] [pid 4552:tid 1208] [client 45.170.58.10:50516] AH00898: Error reading from remote server returned by /user/add, referer: http://www.verificaaluno.com.br/
+[Thu Oct 10 22:54:50.505193 2024] [proxy_http:error] [pid 4552:tid 1200] (OS 10060)A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.  : [client 45.170.58.10:50517] AH01102: error reading status line from remote server localhost:5000, referer: http://www.verificaaluno.com.br/
+[Thu Oct 10 22:54:50.505193 2024] [proxy:error] [pid 4552:tid 1200] [client 45.170.58.10:50517] AH00898: Error reading from remote server returned by /, referer: http://www.verificaaluno.com.br/
+[Thu Oct 10 22:54:54.109870 2024] [proxy_http:error] [pid 4552:tid 1216] (OS 10060)A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.  : [client 45.170.58.10:49990] AH01102: error reading status line from remote server localhost:5000, referer: http://verificaaluno.com.br/login?next=%2Fadd-post
+[Thu Oct 10 22:54:54.109870 2024] [proxy:error] [pid 4552:tid 1216] [client 45.170.58.10:49990] AH00898: Error reading from remote server returned by /posts, referer: http://verificaaluno.com.br/login?next=%2Fadd-post
+[Thu Oct 10 22:55:01.489617 2024] [proxy_http:error] [pid 4552:tid 1192] (OS 10060)A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.  : [client 45.170.58.10:43724] AH01102: error reading status line from remote server localhost:5000, referer: http://verificaaluno.com.br/login?next=%2Fadd-post
+[Thu Oct 10 22:55:01.489617 2024] [proxy:error] [pid 4552:tid 1192] [client 45.170.58.10:43724] AH00898: Error reading from remote server returned by /, referer: http://verificaaluno.com.br/login?next=%2Fadd-post
+[Thu Oct 10 22:55:05.270025 2024] [proxy_http:error] [pid 4552:tid 1232] (OS 10060)A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.  : [client 45.170.58.10:48472] AH01102: error reading status line from remote server localhost:5000, referer: http://verificaaluno.com.br/login?next=%2Fadd-post
+[Thu Oct 10 22:55:05.270025 2024] [proxy:error] [pid 4552:tid 1232] [client 45.170.58.10:48472] AH00898: Error reading from remote server returned by /, referer: http://verificaaluno.com.br/login?next=%2Fadd-post
+[Thu Oct 10 22:55:07.771433 2024] [proxy_http:error] [pid 4552:tid 1236] (OS 10060)A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.  : [client 45.170.58.10:48488] AH01102: error reading status line from remote server localhost:5000, referer: http://verificaaluno.com.br/login?next=%2Fadd-post
+[Thu Oct 10 22:55:07.771433 2024] [proxy:error] [pid 4552:tid 1236] [client 45.170.58.10:48488] AH00898: Error reading from remote server returned by /login, referer: http://verificaaluno.com.br/login?next=%2Fadd-post
+[Thu Oct 10 22:55:10.569807 2024] [proxy_http:error] [pid 4552:tid 1228] (OS 10060)A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.  : [client 45.170.58.10:48492] AH01102: error reading status line from remote server localhost:5000, referer: http://verificaaluno.com.br/login
+[Thu Oct 10 22:55:10.569807 2024] [proxy:error] [pid 4552:tid 1228] [client 45.170.58.10:48492] AH00898: Error reading from remote server returned by /login, referer: http://verificaaluno.com.br/login
+[Thu Oct 10 22:55:57.006717 2024] [proxy_http:error] [pid 4552:tid 1240] (OS 10060)A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.  : [client 45.170.58.10:38688] AH01102: error reading status line from remote server localhost:5000, referer: http://verificaaluno.com.br/
+[Thu Oct 10 22:55:57.006717 2024] [proxy:error] [pid 4552:tid 1240] [client 45.170.58.10:38688] AH00898: Error reading from remote server returned by /login, referer: http://verificaaluno.com.br/
+[Thu Oct 10 22:56:05.427313 2024] [proxy_http:error] [pid 4552:tid 1196] (OS 10060)A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.  : [client 45.170.58.10:50519] AH01102: error reading status line from remote server localhost:5000, referer: http://www.verificaaluno.com.br/
+[Thu Oct 10 22:56:05.427313 2024] [proxy:error] [pid 4552:tid 1196] [client 45.170.58.10:50519] AH00898: Error reading from remote server returned by /, referer: http://www.verificaaluno.com.br/
+[Fri Oct 11 00:02:16.858824 2024] [mpm_winnt:notice] [pid 2956:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Oct 11 00:02:19.436943 2024] [mpm_winnt:notice] [pid 4552:tid 452] AH00364: Child: All worker threads have exited.
+[Fri Oct 11 00:02:19.468193 2024] [mpm_winnt:notice] [pid 2956:tid 404] AH00430: Parent: Child process 4552 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+[Fri Oct 11 17:55:15.832907 2024] [ssl:warn] [pid 3296:tid 416] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Oct 11 17:55:15.832907 2024] [mpm_winnt:notice] [pid 3296:tid 416] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Fri Oct 11 17:55:15.832907 2024] [mpm_winnt:notice] [pid 3296:tid 416] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Fri Oct 11 17:55:15.832907 2024] [core:notice] [pid 3296:tid 416] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Oct 11 17:55:15.895408 2024] [mpm_winnt:notice] [pid 3296:tid 416] AH00418: Parent: Created child process 4796
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+[Fri Oct 11 17:55:16.895405 2024] [ssl:warn] [pid 4796:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Oct 11 17:55:16.895405 2024] [mpm_winnt:notice] [pid 4796:tid 420] AH00354: Child: Starting 64 worker threads.
+[Fri Oct 11 20:26:27.926650 2024] [mpm_winnt:notice] [pid 3296:tid 416] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Oct 11 20:26:29.950658 2024] [mpm_winnt:notice] [pid 4796:tid 420] AH00364: Child: All worker threads have exited.
+[Fri Oct 11 20:26:29.966282 2024] [mpm_winnt:notice] [pid 3296:tid 416] AH00430: Parent: Child process 4796 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+[Fri Oct 11 22:23:46.093570 2024] [ssl:warn] [pid 3028:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Oct 11 22:23:46.093570 2024] [mpm_winnt:notice] [pid 3028:tid 420] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Fri Oct 11 22:23:46.093570 2024] [mpm_winnt:notice] [pid 3028:tid 420] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Fri Oct 11 22:23:46.093570 2024] [core:notice] [pid 3028:tid 420] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Fri Oct 11 22:23:46.234194 2024] [mpm_winnt:notice] [pid 3028:tid 420] AH00418: Parent: Created child process 1056
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+[Fri Oct 11 22:23:47.296695 2024] [ssl:warn] [pid 1056:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Fri Oct 11 22:23:47.296695 2024] [mpm_winnt:notice] [pid 1056:tid 420] AH00354: Child: Starting 64 worker threads.
+[Fri Oct 11 22:23:51.593568 2024] [proxy:error] [pid 1056:tid 1240] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: http: attempt to connect to 127.0.0.1:5000 (localhost:5000) failed
+[Fri Oct 11 22:23:51.593568 2024] [proxy_http:error] [pid 1056:tid 1240] [client 35.160.133.17:59576] AH01114: HTTP: failed to make connection to backend: localhost
+[Fri Oct 11 23:08:28.246840 2024] [mpm_winnt:notice] [pid 3028:tid 420] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Fri Oct 11 23:08:30.270396 2024] [mpm_winnt:notice] [pid 1056:tid 420] AH00364: Child: All worker threads have exited.
+[Fri Oct 11 23:08:30.286015 2024] [mpm_winnt:notice] [pid 3028:tid 420] AH00430: Parent: Child process 1056 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+[Sat Oct 12 15:57:12.728256 2024] [ssl:warn] [pid 3172:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Oct 12 15:57:12.728256 2024] [mpm_winnt:notice] [pid 3172:tid 404] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Sat Oct 12 15:57:12.728256 2024] [mpm_winnt:notice] [pid 3172:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Sat Oct 12 15:57:12.728256 2024] [core:notice] [pid 3172:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Sat Oct 12 15:57:12.822006 2024] [mpm_winnt:notice] [pid 3172:tid 404] AH00418: Parent: Created child process 4388
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+[Sat Oct 12 15:57:14.197005 2024] [ssl:warn] [pid 4388:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Sat Oct 12 15:57:14.197005 2024] [mpm_winnt:notice] [pid 4388:tid 420] AH00354: Child: Starting 64 worker threads.
+[Sat Oct 12 21:06:08.816033 2024] [mpm_winnt:notice] [pid 3172:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Oct 12 21:06:10.833191 2024] [mpm_winnt:notice] [pid 4388:tid 420] AH00364: Child: All worker threads have exited.
+[Sat Oct 12 21:06:10.864428 2024] [mpm_winnt:notice] [pid 3172:tid 404] AH00430: Parent: Child process 4388 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+[Mon Oct 14 15:03:39.844108 2024] [ssl:warn] [pid 3260:tid 424] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Oct 14 15:03:39.844108 2024] [mpm_winnt:notice] [pid 3260:tid 424] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Mon Oct 14 15:03:39.844108 2024] [mpm_winnt:notice] [pid 3260:tid 424] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Mon Oct 14 15:03:39.844108 2024] [core:notice] [pid 3260:tid 424] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Mon Oct 14 15:03:40.031607 2024] [mpm_winnt:notice] [pid 3260:tid 424] AH00418: Parent: Created child process 4488
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+[Mon Oct 14 15:03:41.375360 2024] [ssl:warn] [pid 4488:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Mon Oct 14 15:03:41.375360 2024] [mpm_winnt:notice] [pid 4488:tid 420] AH00354: Child: Starting 64 worker threads.
