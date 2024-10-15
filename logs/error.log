@@ -768,3 +768,57 @@ AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
 AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
 [Mon Oct 14 15:03:41.375360 2024] [ssl:warn] [pid 4488:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
 [Mon Oct 14 15:03:41.375360 2024] [mpm_winnt:notice] [pid 4488:tid 420] AH00354: Child: Starting 64 worker threads.
+[Mon Oct 14 18:13:23.237499 2024] [core:error] [pid 4488:tid 1236] [client 47.236.192.1:35076] AH10244: invalid URI path (/cgi-bin/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/.%2e/bin/sh)
+[Mon Oct 14 18:13:23.853932 2024] [core:error] [pid 4488:tid 1236] [client 47.236.192.1:35244] AH10244: invalid URI path (/cgi-bin/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/%%32%65%%32%65/bin/sh)
+[Tue Oct 15 00:24:04.863819 2024] [mpm_winnt:notice] [pid 3260:tid 424] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 15 00:24:06.888518 2024] [mpm_winnt:notice] [pid 4488:tid 420] AH00364: Child: All worker threads have exited.
+[Tue Oct 15 00:24:06.904168 2024] [mpm_winnt:notice] [pid 3260:tid 424] AH00430: Parent: Child process 4488 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+[Tue Oct 15 00:24:25.279295 2024] [ssl:warn] [pid 3140:tid 404] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 15 00:24:25.279295 2024] [mpm_winnt:notice] [pid 3140:tid 404] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Tue Oct 15 00:24:25.279295 2024] [mpm_winnt:notice] [pid 3140:tid 404] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Tue Oct 15 00:24:25.279295 2024] [core:notice] [pid 3140:tid 404] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 15 00:24:25.357421 2024] [mpm_winnt:notice] [pid 3140:tid 404] AH00418: Parent: Created child process 4220
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+[Tue Oct 15 00:24:26.607422 2024] [ssl:warn] [pid 4220:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 15 00:24:26.607422 2024] [mpm_winnt:notice] [pid 4220:tid 420] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 15 00:36:13.889235 2024] [mpm_winnt:notice] [pid 3140:tid 404] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 15 00:36:20.819526 2024] [mpm_winnt:notice] [pid 4220:tid 420] AH00364: Child: All worker threads have exited.
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+[Tue Oct 15 00:36:33.157486 2024] [core:warn] [pid 2592:tid 412] AH00098: pid file C:/Apache24/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Oct 15 00:36:33.157486 2024] [ssl:warn] [pid 2592:tid 412] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 15 00:36:33.157486 2024] [mpm_winnt:notice] [pid 2592:tid 412] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Tue Oct 15 00:36:33.157486 2024] [mpm_winnt:notice] [pid 2592:tid 412] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Tue Oct 15 00:36:33.157486 2024] [core:notice] [pid 2592:tid 412] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 15 00:36:33.266861 2024] [mpm_winnt:notice] [pid 2592:tid 412] AH00418: Parent: Created child process 4200
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+[Tue Oct 15 00:36:34.407484 2024] [ssl:warn] [pid 4200:tid 424] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 15 00:36:34.407484 2024] [mpm_winnt:notice] [pid 4200:tid 424] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 15 00:38:34.786071 2024] [mpm_winnt:notice] [pid 2592:tid 412] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 15 00:38:36.831664 2024] [mpm_winnt:notice] [pid 4200:tid 424] AH00364: Child: All worker threads have exited.
+[Tue Oct 15 00:38:36.847054 2024] [mpm_winnt:notice] [pid 2592:tid 412] AH00430: Parent: Child process 4200 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+[Tue Oct 15 00:48:33.333246 2024] [ssl:warn] [pid 3172:tid 416] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 15 00:48:33.333246 2024] [mpm_winnt:notice] [pid 3172:tid 416] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Tue Oct 15 00:48:33.333246 2024] [mpm_winnt:notice] [pid 3172:tid 416] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Tue Oct 15 00:48:33.333246 2024] [core:notice] [pid 3172:tid 416] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 15 00:48:33.426995 2024] [mpm_winnt:notice] [pid 3172:tid 416] AH00418: Parent: Created child process 4360
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+[Tue Oct 15 00:48:34.583246 2024] [ssl:warn] [pid 4360:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 15 00:48:34.583246 2024] [mpm_winnt:notice] [pid 4360:tid 420] AH00354: Child: Starting 64 worker threads.
+[Tue Oct 15 01:04:43.884597 2024] [mpm_winnt:notice] [pid 3172:tid 416] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 15 01:04:45.905852 2024] [mpm_winnt:notice] [pid 4360:tid 420] AH00364: Child: All worker threads have exited.
+[Tue Oct 15 01:04:45.921579 2024] [mpm_winnt:notice] [pid 3172:tid 416] AH00430: Parent: Child process 4360 exited successfully.
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+[Tue Oct 15 14:23:28.412713 2024] [ssl:warn] [pid 3064:tid 424] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 15 14:23:28.412713 2024] [mpm_winnt:notice] [pid 3064:tid 424] AH00455: Apache/2.4.62 (Win64) OpenSSL/3.1.7 configured -- resuming normal operations
+[Tue Oct 15 14:23:28.412713 2024] [mpm_winnt:notice] [pid 3064:tid 424] AH00456: Apache Lounge VS17 Server built: Sep  4 2024 10:31:52
+[Tue Oct 15 14:23:28.412713 2024] [core:notice] [pid 3064:tid 424] AH00094: Command line: 'C:\\Apache24\\bin\\httpd.exe -d C:/Apache24'
+[Tue Oct 15 14:23:28.412713 2024] [mpm_winnt:notice] [pid 3064:tid 424] AH00418: Parent: Created child process 4876
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+AH00112: Warning: DocumentRoot [C:/Apache24/htdocs/index.html] does not exist
+[Tue Oct 15 14:23:28.928336 2024] [ssl:warn] [pid 4876:tid 420] AH01873: Init: Session Cache is not configured [hint: SSLSessionCache]
+[Tue Oct 15 14:23:28.928336 2024] [mpm_winnt:notice] [pid 4876:tid 420] AH00354: Child: Starting 64 worker threads.
